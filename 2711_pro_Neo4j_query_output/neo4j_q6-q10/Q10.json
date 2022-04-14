@@ -1,0 +1,497 @@
+﻿[
+  {
+    "Year": 1901,
+    "Average_Temperature": 18.61112230514096,
+    "Average_Temperature_Uncertainty": 0.7549794776119417
+  },
+  {
+    "Year": 1902,
+    "Average_Temperature": 18.57229912935323,
+    "Average_Temperature_Uncertainty": 0.7242630597014921
+  },
+  {
+    "Year": 1903,
+    "Average_Temperature": 18.406392412935386,
+    "Average_Temperature_Uncertainty": 0.7127833747927055
+  },
+  {
+    "Year": 1904,
+    "Average_Temperature": 18.284173922056357,
+    "Average_Temperature_Uncertainty": 0.6865126451077923
+  },
+  {
+    "Year": 1905,
+    "Average_Temperature": 18.326854477611988,
+    "Average_Temperature_Uncertainty": 0.666603855721392
+  },
+  {
+    "Year": 1906,
+    "Average_Temperature": 18.503286691542304,
+    "Average_Temperature_Uncertainty": 0.6405632255389716
+  },
+  {
+    "Year": 1907,
+    "Average_Temperature": 18.210377902155948,
+    "Average_Temperature_Uncertainty": 0.606957918739633
+  },
+  {
+    "Year": 1908,
+    "Average_Temperature": 18.30861650082916,
+    "Average_Temperature_Uncertainty": 0.6321774461028192
+  },
+  {
+    "Year": 1909,
+    "Average_Temperature": 18.36001741293528,
+    "Average_Temperature_Uncertainty": 0.6181513266998353
+  },
+  {
+    "Year": 1910,
+    "Average_Temperature": 18.34094112769486,
+    "Average_Temperature_Uncertainty": 0.613310116086235
+  },
+  {
+    "Year": 1911,
+    "Average_Temperature": 18.404006218905543,
+    "Average_Temperature_Uncertainty": 0.597848051409618
+  },
+  {
+    "Year": 1912,
+    "Average_Temperature": 18.40583913764515,
+    "Average_Temperature_Uncertainty": 0.6166811774461037
+  },
+  {
+    "Year": 1913,
+    "Average_Temperature": 18.462355514096192,
+    "Average_Temperature_Uncertainty": 0.5933822553897198
+  },
+  {
+    "Year": 1914,
+    "Average_Temperature": 18.694807006633514,
+    "Average_Temperature_Uncertainty": 0.6071708126036499
+  },
+  {
+    "Year": 1915,
+    "Average_Temperature": 18.781804726368158,
+    "Average_Temperature_Uncertainty": 0.5992224295190717
+  },
+  {
+    "Year": 1916,
+    "Average_Temperature": 18.53071123548922,
+    "Average_Temperature_Uncertainty": 0.6076131840795999
+  },
+  {
+    "Year": 1917,
+    "Average_Temperature": 18.125469320066365,
+    "Average_Temperature_Uncertainty": 0.6304859038142626
+  },
+  {
+    "Year": 1918,
+    "Average_Temperature": 18.401157752902208,
+    "Average_Temperature_Uncertainty": 0.5847553897180785
+  },
+  {
+    "Year": 1919,
+    "Average_Temperature": 18.534822346600315,
+    "Average_Temperature_Uncertainty": 0.6173005804311786
+  },
+  {
+    "Year": 1920,
+    "Average_Temperature": 18.508285033167475,
+    "Average_Temperature_Uncertainty": 0.620267827529021
+  },
+  {
+    "Year": 1921,
+    "Average_Temperature": 18.73824606135987,
+    "Average_Temperature_Uncertainty": 0.5843895107794373
+  },
+  {
+    "Year": 1922,
+    "Average_Temperature": 18.610170812603666,
+    "Average_Temperature_Uncertainty": 0.5587346600331692
+  },
+  {
+    "Year": 1923,
+    "Average_Temperature": 18.59753731343283,
+    "Average_Temperature_Uncertainty": 0.5364056799336651
+  },
+  {
+    "Year": 1924,
+    "Average_Temperature": 18.570079394693234,
+    "Average_Temperature_Uncertainty": 0.5348022388059713
+  },
+  {
+    "Year": 1925,
+    "Average_Temperature": 18.577290837479268,
+    "Average_Temperature_Uncertainty": 0.5607400497512447
+  },
+  {
+    "Year": 1926,
+    "Average_Temperature": 18.75303772802652,
+    "Average_Temperature_Uncertainty": 0.5246146351575453
+  },
+  {
+    "Year": 1927,
+    "Average_Temperature": 18.681210613598658,
+    "Average_Temperature_Uncertainty": 0.5001525704809303
+  },
+  {
+    "Year": 1928,
+    "Average_Temperature": 18.72059390547254,
+    "Average_Temperature_Uncertainty": 0.50738826699834
+  },
+  {
+    "Year": 1929,
+    "Average_Temperature": 18.470428067993375,
+    "Average_Temperature_Uncertainty": 0.5187247097844108
+  },
+  {
+    "Year": 1930,
+    "Average_Temperature": 18.762076492537215,
+    "Average_Temperature_Uncertainty": 0.48564096185738054
+  },
+  {
+    "Year": 1931,
+    "Average_Temperature": 18.729919154228813,
+    "Average_Temperature_Uncertainty": 0.4858557213930351
+  },
+  {
+    "Year": 1932,
+    "Average_Temperature": 18.77581716417903,
+    "Average_Temperature_Uncertainty": 0.49792039800994975
+  },
+  {
+    "Year": 1933,
+    "Average_Temperature": 18.463697139303434,
+    "Average_Temperature_Uncertainty": 0.48483851575456133
+  },
+  {
+    "Year": 1934,
+    "Average_Temperature": 18.688754145936997,
+    "Average_Temperature_Uncertainty": 0.48792723880596867
+  },
+  {
+    "Year": 1935,
+    "Average_Temperature": 18.699275497512424,
+    "Average_Temperature_Uncertainty": 0.4793801824212274
+  },
+  {
+    "Year": 1936,
+    "Average_Temperature": 18.710196310116128,
+    "Average_Temperature_Uncertainty": 0.4727367330016586
+  },
+  {
+    "Year": 1937,
+    "Average_Temperature": 18.767394071310125,
+    "Average_Temperature_Uncertainty": 0.46671434494195574
+  },
+  {
+    "Year": 1938,
+    "Average_Temperature": 18.87167143449429,
+    "Average_Temperature_Uncertainty": 0.4686243781094527
+  },
+  {
+    "Year": 1939,
+    "Average_Temperature": 18.870906509121113,
+    "Average_Temperature_Uncertainty": 0.4479601990049762
+  },
+  {
+    "Year": 1940,
+    "Average_Temperature": 18.70616521558871,
+    "Average_Temperature_Uncertainty": 0.44578150912106096
+  },
+  {
+    "Year": 1941,
+    "Average_Temperature": 18.98883665008299,
+    "Average_Temperature_Uncertainty": 0.461235696517412
+  },
+  {
+    "Year": 1942,
+    "Average_Temperature": 18.761499792703127,
+    "Average_Temperature_Uncertainty": 0.44915671641791094
+  },
+  {
+    "Year": 1943,
+    "Average_Temperature": 18.76619154228851,
+    "Average_Temperature_Uncertainty": 0.4484465174129351
+  },
+  {
+    "Year": 1944,
+    "Average_Temperature": 18.790698797678242,
+    "Average_Temperature_Uncertainty": 0.46204850746268583
+  },
+  {
+    "Year": 1945,
+    "Average_Temperature": 18.634926616915397,
+    "Average_Temperature_Uncertainty": 0.46804249585406393
+  },
+  {
+    "Year": 1946,
+    "Average_Temperature": 18.915599087893884,
+    "Average_Temperature_Uncertainty": 0.44105970149253676
+  },
+  {
+    "Year": 1947,
+    "Average_Temperature": 18.9193304311775,
+    "Average_Temperature_Uncertainty": 0.43855203150912087
+  },
+  {
+    "Year": 1948,
+    "Average_Temperature": 18.922062810945253,
+    "Average_Temperature_Uncertainty": 0.4235959784411281
+  },
+  {
+    "Year": 1949,
+    "Average_Temperature": 18.80837976782755,
+    "Average_Temperature_Uncertainty": 0.42916397180762905
+  },
+  {
+    "Year": 1950,
+    "Average_Temperature": 18.672503524046387,
+    "Average_Temperature_Uncertainty": 0.4094481757877286
+  },
+  {
+    "Year": 1951,
+    "Average_Temperature": 18.900328980099523,
+    "Average_Temperature_Uncertainty": 0.45573237976782727
+  },
+  {
+    "Year": 1952,
+    "Average_Temperature": 18.906232587064633,
+    "Average_Temperature_Uncertainty": 0.38587043946931926
+  },
+  {
+    "Year": 1953,
+    "Average_Temperature": 19.015168117744565,
+    "Average_Temperature_Uncertainty": 0.38188909618573774
+  },
+  {
+    "Year": 1954,
+    "Average_Temperature": 18.75136069651736,
+    "Average_Temperature_Uncertainty": 0.40636857379767827
+  },
+  {
+    "Year": 1955,
+    "Average_Temperature": 18.843631218905486,
+    "Average_Temperature_Uncertainty": 0.39639324212271965
+  },
+  {
+    "Year": 1956,
+    "Average_Temperature": 18.40327383913762,
+    "Average_Temperature_Uncertainty": 0.40845398009950284
+  },
+  {
+    "Year": 1957,
+    "Average_Temperature": 18.850865049751263,
+    "Average_Temperature_Uncertainty": 0.49364800995024816
+  },
+  {
+    "Year": 1958,
+    "Average_Temperature": 19.121136815920394,
+    "Average_Temperature_Uncertainty": 0.42545543117744583
+  },
+  {
+    "Year": 1959,
+    "Average_Temperature": 18.98155762852409,
+    "Average_Temperature_Uncertainty": 0.4037893864013258
+  },
+  {
+    "Year": 1960,
+    "Average_Temperature": 18.948641583748056,
+    "Average_Temperature_Uncertainty": 0.3992383913764515
+  },
+  {
+    "Year": 1961,
+    "Average_Temperature": 18.994259328358254,
+    "Average_Temperature_Uncertainty": 0.37841563018242125
+  },
+  {
+    "Year": 1962,
+    "Average_Temperature": 18.83729995854066,
+    "Average_Temperature_Uncertainty": 0.403689262023217
+  },
+  {
+    "Year": 1963,
+    "Average_Temperature": 18.877024668325017,
+    "Average_Temperature_Uncertainty": 0.3967804726368166
+  },
+  {
+    "Year": 1964,
+    "Average_Temperature": 18.699375000000025,
+    "Average_Temperature_Uncertainty": 0.3805698590381435
+  },
+  {
+    "Year": 1965,
+    "Average_Temperature": 18.73505410447759,
+    "Average_Temperature_Uncertainty": 0.4060246683250422
+  },
+  {
+    "Year": 1966,
+    "Average_Temperature": 19.072911691542252,
+    "Average_Temperature_Uncertainty": 0.38971475953565393
+  },
+  {
+    "Year": 1967,
+    "Average_Temperature": 18.79096558872308,
+    "Average_Temperature_Uncertainty": 0.380104892205638
+  },
+  {
+    "Year": 1968,
+    "Average_Temperature": 18.70728171641787,
+    "Average_Temperature_Uncertainty": 0.37999585406301695
+  },
+  {
+    "Year": 1969,
+    "Average_Temperature": 18.812640547263754,
+    "Average_Temperature_Uncertainty": 0.3906496683250406
+  },
+  {
+    "Year": 1970,
+    "Average_Temperature": 18.886391791044783,
+    "Average_Temperature_Uncertainty": 0.3617609867330018
+  },
+  {
+    "Year": 1971,
+    "Average_Temperature": 18.677518034825933,
+    "Average_Temperature_Uncertainty": 0.36278503316749783
+  },
+  {
+    "Year": 1972,
+    "Average_Temperature": 18.789355514096147,
+    "Average_Temperature_Uncertainty": 0.39493781094527175
+  },
+  {
+    "Year": 1973,
+    "Average_Temperature": 19.039971600331647,
+    "Average_Temperature_Uncertainty": 0.37083747927031346
+  },
+  {
+    "Year": 1974,
+    "Average_Temperature": 18.761118573797713,
+    "Average_Temperature_Uncertainty": 0.36351160862354837
+  },
+  {
+    "Year": 1975,
+    "Average_Temperature": 18.864006011608662,
+    "Average_Temperature_Uncertainty": 0.3780953565505807
+  },
+  {
+    "Year": 1976,
+    "Average_Temperature": 18.60341480099499,
+    "Average_Temperature_Uncertainty": 0.38389013266998356
+  },
+  {
+    "Year": 1977,
+    "Average_Temperature": 19.037005389718132,
+    "Average_Temperature_Uncertainty": 0.3516979684908782
+  },
+  {
+    "Year": 1978,
+    "Average_Temperature": 18.83292164179104,
+    "Average_Temperature_Uncertainty": 0.3565507877280263
+  },
+  {
+    "Year": 1979,
+    "Average_Temperature": 19.08526326699839,
+    "Average_Temperature_Uncertainty": 0.34928026533996814
+  },
+  {
+    "Year": 1980,
+    "Average_Temperature": 18.982056592039815,
+    "Average_Temperature_Uncertainty": 0.34530907960198953
+  },
+  {
+    "Year": 1981,
+    "Average_Temperature": 19.017649046434514,
+    "Average_Temperature_Uncertainty": 0.3634199834162525
+  },
+  {
+    "Year": 1982,
+    "Average_Temperature": 18.992487976782705,
+    "Average_Temperature_Uncertainty": 0.36032441956882244
+  },
+  {
+    "Year": 1983,
+    "Average_Temperature": 19.08469962686571,
+    "Average_Temperature_Uncertainty": 0.3616247927031505
+  },
+  {
+    "Year": 1984,
+    "Average_Temperature": 18.825735281923738,
+    "Average_Temperature_Uncertainty": 0.36442039800994963
+  },
+  {
+    "Year": 1985,
+    "Average_Temperature": 18.892133084577154,
+    "Average_Temperature_Uncertainty": 0.3688335406301822
+  },
+  {
+    "Year": 1986,
+    "Average_Temperature": 18.96343884742947,
+    "Average_Temperature_Uncertainty": 0.3640737976782758
+  },
+  {
+    "Year": 1987,
+    "Average_Temperature": 19.205835199005016,
+    "Average_Temperature_Uncertainty": 0.35774481757877247
+  },
+  {
+    "Year": 1988,
+    "Average_Temperature": 19.23670916252072,
+    "Average_Temperature_Uncertainty": 0.340922885572139
+  },
+  {
+    "Year": 1989,
+    "Average_Temperature": 19.1561490464345,
+    "Average_Temperature_Uncertainty": 0.3713240049751241
+  },
+  {
+    "Year": 1990,
+    "Average_Temperature": 19.414596807628506,
+    "Average_Temperature_Uncertainty": 0.37367060530679974
+  },
+  {
+    "Year": 1991,
+    "Average_Temperature": 19.150677238805933,
+    "Average_Temperature_Uncertainty": 0.3362199419568823
+  },
+  {
+    "Year": 1992,
+    "Average_Temperature": 19.012395107794323,
+    "Average_Temperature_Uncertainty": 0.36782193200663443
+  },
+  {
+    "Year": 1993,
+    "Average_Temperature": 19.002676202321755,
+    "Average_Temperature_Uncertainty": 0.350975746268656
+  },
+  {
+    "Year": 1994,
+    "Average_Temperature": 19.3500907960199,
+    "Average_Temperature_Uncertainty": 0.3457354892205635
+  },
+  {
+    "Year": 1995,
+    "Average_Temperature": 19.419037520729752,
+    "Average_Temperature_Uncertainty": 0.34312645107794293
+  },
+  {
+    "Year": 1996,
+    "Average_Temperature": 19.04644734660033,
+    "Average_Temperature_Uncertainty": 0.3317844112769483
+  },
+  {
+    "Year": 1997,
+    "Average_Temperature": 19.24750310945275,
+    "Average_Temperature_Uncertainty": 0.3622578772802652
+  },
+  {
+    "Year": 1998,
+    "Average_Temperature": 19.722563847429544,
+    "Average_Temperature_Uncertainty": 0.3347305140961849
+  },
+  {
+    "Year": 1999,
+    "Average_Temperature": 19.54003669154235,
+    "Average_Temperature_Uncertainty": 0.3352079187396355
+  }
+]

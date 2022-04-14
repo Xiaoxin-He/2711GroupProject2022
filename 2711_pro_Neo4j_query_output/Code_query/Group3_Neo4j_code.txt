@@ -1,0 +1,96 @@
+//  Create Tables:
+//  temperature table
+WITH distinct row.tempID as tempId, toFloat(row.AverageTemperature) AS AverageTemperature, row.City AS city, toFloat(row.AverageTemperatureUncertainty) as AverageTemperatureUncertainty
+create (T:Temperature{tempID: tempId})
+SET T.city=city, T.AverageTemperature=AverageTemperature, T.AverageTemperatureUncertainty=AverageTemperatureUncertainty
+RETURN (T)
+
+//  city_c table:
+LOAD CSV with headers FROM 'file:///March22_newTemperture.csv' AS row
+WITH row.Country AS country,row.City AS city, row.Latitude AS Latitude,row.Longitude AS Longitude
+MERGE (C:city_c{city: city})
+SET C.country = country,C.Latitude=Latitude,C.Longitude=Longitude
+RETURN C
+
+//  countries table:
+LOAD CSV with headers FROM 'file:///March22_newTemperture.csv' AS row
+WITH row.Country AS country
+merge (T:countries{country:country})
+RETURN (T)
+
+//  time table:
+LOAD CSV with headers FROM 'file:///March22_newTemperture.csv' AS row
+WITH row.tempID as tempID, row.Year AS Year,row.Month AS Month, row.Day AS Day
+CREATE (C:Time{tempID: tempID})
+SET C.year = Year,C.month=Month,C.day=Day
+RETURN C
+
+//  Create relationships:
+//  BelongTo:
+MATCH (c:city_c), (t:temperature)
+WHERE c.city=t.city
+CREATE (t)-[: BelongTo]->(c)
+RETURN t,c
+
+//  HaveTime:
+MATCH (ti:Time), (t:temperature)
+WHERE ti.tempID=t.tempID
+CREATE (t)-[: HaveTime]->(ti)
+RETURN t,ti limit 25
+
+//  Nationality:
+MATCH (co:countries), (ci:city_c)
+WHERE co.country = ci.country
+CREATE (co)-[: Nationality]->(ci)
+RETURN co,ci
+
+//  Queries:
+// Query 1
+MATCH (ti:Time)-[h:HaveTime]-(T:temperature)-[rel:BelongTo]-(C:city_c)
+where toInteger(ti.month)<3 or toInteger(ti.month)>11
+RETURN C.city as City , avg(T.AverageTemperature) as Average_temp
+order by City
+
+//  Query 2:
+match (t:temperature)-[b:BelongTo]-(ci:city_c)-[n:Nationality]-(co:countries)
+return co.country as country, avg(t.AverageTemperature) as Average_temp
+
+//  Query 3:
+MATCH (ti:Time)-[h:HaveTime]-(T:temperature)
+WITH T.city as C,max(T.AverageTemperature) AS maximum_T
+MATCH (ti:Time)-[h:HaveTime]-(T:temperature)
+WHERE T.AverageTemperature = maximum_T and T.city = C
+RETURN T.city as City , T.AverageTemperature as max_temp, ti.year as Year
+order by City,Year
+
+// Query 4:
+MATCH (ti:Time{year: '1745'})-[h:HaveTime]-(t:temperature)-[b:BelongTo]-(ci:city_c{country:'Denmark'})
+RETURN max(t.AverageTemperature) as highest_average
+
+//  Query 5:
+MATCH (ti:Time)-[h:HaveTime]-(T:temperature)-[rel:BelongTo]-(C:city_c{country:'Denmark'})
+where 2<toInteger(ti.month)<6
+RETURN avg(T.AverageTemperature) as average_temperature
+
+//  Query 6:
+match (t:temperature)-[b:BelongTo]-(ci:city_c)-[n:Nationality]-(co:countries) return co.country, avg(t.AverageTemperatureUncertainty)
+
+//  Query 7:
+match (ti:Time)-[h:HaveTime]-(t:temperature)-[b:BelongTo]-(ci:city_c)
+where toFloat(ci.Latitude) > -23.5 and toFloat(ci.Latitude) < 23.5 return ti.year,avg(t.AverageTemperatureUncertainty)
+order by ti.year
+
+//  Query 8:
+match (t:temperature)-[b:BelongTo]-(ci:city_c)
+return ci.city as City,avg(t.AverageTemperature) as Average_Temperature
+
+//  Query 9:
+match (ti:Time)-[h:HaveTime]-(t:temperature)-[b:BelongTo]-(ci:city_c)
+where (toFloat(ci.Latitude) < -23.5 and toFloat(ci.Latitude) > -66.5) or (toFloat(ci.Latitude) > 23.5 and toFloat(ci.Latitude) < 66.5)
+return ti.year as Year, avg(t.AverageTemperature) as Average_Temperature
+
+//  Query 10:
+match (ti:Time)-[:HaveTime]-(t:temperature)
+where 1900<toInteger(ti.year)<2000
+return ti.year as Year, avg(t.AverageTemperature) as Average_Temperature, avg(t.AverageTemperatureUncertainty) as Average_Temperature_Uncertainty
+order by Year

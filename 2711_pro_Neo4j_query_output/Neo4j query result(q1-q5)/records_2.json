@@ -1,0 +1,334 @@
+﻿[
+  {
+    "country": "Denmark",
+    "Average_temp": 7.695134554643073
+  },
+  {
+    "country": "Turkey",
+    "Average_temp": 13.712569727653662
+  },
+  {
+    "country": "Kazakhstan",
+    "Average_temp": 5.393809097127226
+  },
+  {
+    "country": "China",
+    "Average_temp": 9.424935709772594
+  },
+  {
+    "country": "Spain",
+    "Average_temp": 13.941663519122926
+  },
+  {
+    "country": "Germany",
+    "Average_temp": 8.03892867972211
+  },
+  {
+    "country": "Nigeria",
+    "Average_temp": 26.71273598537219
+  },
+  {
+    "country": "Iran",
+    "Average_temp": 15.93324900279215
+  },
+  {
+    "country": "Russia",
+    "Average_temp": 3.5894116099325757
+  },
+  {
+    "country": "Canada",
+    "Average_temp": 6.383751080217921
+  },
+  {
+    "country": "Côte D'Ivoire",
+    "Average_temp": 26.23530986107321
+  },
+  {
+    "country": "United Kingdom",
+    "Average_temp": 8.860528624250875
+  },
+  {
+    "country": "Saudi Arabia",
+    "Average_temp": 24.483904109589048
+  },
+  {
+    "country": "Japan",
+    "Average_temp": 12.544113383962113
+  },
+  {
+    "country": "United States",
+    "Average_temp": 12.683406142177171
+  },
+  {
+    "country": "India",
+    "Average_temp": 25.75505609317326
+  },
+  {
+    "country": "Benin",
+    "Average_temp": 27.121563068181874
+  },
+  {
+    "country": "United Arab Emirates",
+    "Average_temp": 26.572680548234068
+  },
+  {
+    "country": "Mexico",
+    "Average_temp": 21.32443895652175
+  },
+  {
+    "country": "Venezuela",
+    "Average_temp": 23.56579487015888
+  },
+  {
+    "country": "Ghana",
+    "Average_temp": 26.287347826086968
+  },
+  {
+    "country": "Ethiopia",
+    "Average_temp": 18.196849522292958
+  },
+  {
+    "country": "Australia",
+    "Average_temp": 14.780291485244328
+  },
+  {
+    "country": "Yemen",
+    "Average_temp": 25.54778723404255
+  },
+  {
+    "country": "Indonesia",
+    "Average_temp": 25.814751898499694
+  },
+  {
+    "country": "Morocco",
+    "Average_temp": 17.547080534351124
+  },
+  {
+    "country": "Pakistan",
+    "Average_temp": 25.27621683469355
+  },
+  {
+    "country": "France",
+    "Average_temp": 10.473244630448537
+  },
+  {
+    "country": "Libya",
+    "Average_temp": 19.291639676113302
+  },
+  {
+    "country": "Burma",
+    "Average_temp": 26.136853412462944
+  },
+  {
+    "country": "Brazil",
+    "Average_temp": 22.528712857090223
+  },
+  {
+    "country": "South Africa",
+    "Average_temp": 15.701162573411633
+  },
+  {
+    "country": "Syria",
+    "Average_temp": 17.370587333602263
+  },
+  {
+    "country": "Egypt",
+    "Average_temp": 22.54643725900632
+  },
+  {
+    "country": "Algeria",
+    "Average_temp": 16.43171195652175
+  },
+  {
+    "country": "Netherlands",
+    "Average_temp": 9.130847441566674
+  },
+  {
+    "country": "Malaysia",
+    "Average_temp": 26.659341926596603
+  },
+  {
+    "country": "Portugal",
+    "Average_temp": 15.525800511508937
+  },
+  {
+    "country": "Ecuador",
+    "Average_temp": 16.912374924288294
+  },
+  {
+    "country": "Italy",
+    "Average_temp": 12.885692461570862
+  },
+  {
+    "country": "Uzbekistan",
+    "Average_temp": 10.329958027522958
+  },
+  {
+    "country": "Philippines",
+    "Average_temp": 26.34733928684127
+  },
+  {
+    "country": "Madagascar",
+    "Average_temp": 19.507874929098122
+  },
+  {
+    "country": "Chile",
+    "Average_temp": 17.556494999999984
+  },
+  {
+    "country": "Belgium",
+    "Average_temp": 9.876367656348682
+  },
+  {
+    "country": "El Salvador",
+    "Average_temp": 25.36419146919433
+  },
+  {
+    "country": "Romania",
+    "Average_temp": 8.763765213729231
+  },
+  {
+    "country": "Peru",
+    "Average_temp": 15.66627840416303
+  },
+  {
+    "country": "Colombia",
+    "Average_temp": 23.21808397695234
+  },
+  {
+    "country": "Tanzania",
+    "Average_temp": 21.22605006257825
+  },
+  {
+    "country": "Tunisia",
+    "Average_temp": 18.449817088607627
+  },
+  {
+    "country": "Turkmenistan",
+    "Average_temp": 14.811494972577705
+  },
+  {
+    "country": "Israel",
+    "Average_temp": 19.11313152784872
+  },
+  {
+    "country": "Eritrea",
+    "Average_temp": 24.001515877771112
+  },
+  {
+    "country": "Paraguay",
+    "Average_temp": 22.661886450381665
+  },
+  {
+    "country": "Greece",
+    "Average_temp": 17.419485933503836
+  },
+  {
+    "country": "New Zealand",
+    "Average_temp": 15.237803941908714
+  },
+  {
+    "country": "Vietnam",
+    "Average_temp": 27.02459328177866
+  },
+  {
+    "country": "Cameroon",
+    "Average_temp": 23.25530970220943
+  },
+  {
+    "country": "Iraq",
+    "Average_temp": 22.614345689655217
+  },
+  {
+    "country": "Afghanistan",
+    "Average_temp": 10.790278244631208
+  },
+  {
+    "country": "Argentina",
+    "Average_temp": 15.11008052631581
+  },
+  {
+    "country": "Azerbaijan",
+    "Average_temp": 11.113663814180901
+  },
+  {
+    "country": "Moldova",
+    "Average_temp": 8.420151610865478
+  },
+  {
+    "country": "Mali",
+    "Average_temp": 26.96767270788914
+  },
+  {
+    "country": "Congo (Democratic Republic Of The)",
+    "Average_temp": 25.349076080691635
+  },
+  {
+    "country": "Thailand",
+    "Average_temp": 27.164733303650934
+  },
+  {
+    "country": "Central African Republic",
+    "Average_temp": 24.950858213256485
+  },
+  {
+    "country": "Bosnia And Herzegovina",
+    "Average_temp": 9.081287428932365
+  },
+  {
+    "country": "Bangladesh",
+    "Average_temp": 24.985372998616295
+  },
+  {
+    "country": "Switzerland",
+    "Average_temp": 6.839018319646241
+  },
+  {
+    "country": "Equatorial Guinea",
+    "Average_temp": 24.86318443804033
+  },
+  {
+    "country": "Cuba",
+    "Average_temp": 26.086400174748817
+  },
+  {
+    "country": "Lebanon",
+    "Average_temp": 18.95076532604451
+  },
+  {
+    "country": "Mozambique",
+    "Average_temp": 23.861115874855145
+  },
+  {
+    "country": "Serbia",
+    "Average_temp": 10.072420404295666
+  },
+  {
+    "country": "Angola",
+    "Average_temp": 23.18442013888885
+  },
+  {
+    "country": "Somalia",
+    "Average_temp": 27.39608443908323
+  },
+  {
+    "country": "Norway",
+    "Average_temp": 1.7903815540113706
+  },
+  {
+    "country": "Nepal",
+    "Average_temp": 21.643118827942832
+  },
+  {
+    "country": "Poland",
+    "Average_temp": 7.0235641187618345
+  },
+  {
+    "country": "Ukraine",
+    "Average_temp": 7.142098547062526
+  },
+  {
+    "country": "Guinea Bissau",
+    "Average_temp": 27.05718546231964
+  }
+]

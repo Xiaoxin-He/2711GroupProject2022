@@ -1,0 +1,334 @@
+﻿[
+  {
+    "co.country": "Denmark",
+    "avg(t.AverageTemperatureUncertainty)": 1.6687204674668346
+  },
+  {
+    "co.country": "Turkey",
+    "avg(t.AverageTemperatureUncertainty)": 1.2416325069832355
+  },
+  {
+    "co.country": "Kazakhstan",
+    "avg(t.AverageTemperatureUncertainty)": 1.1997625854993028
+  },
+  {
+    "co.country": "China",
+    "avg(t.AverageTemperatureUncertainty)": 0.9361211387250726
+  },
+  {
+    "co.country": "Spain",
+    "avg(t.AverageTemperatureUncertainty)": 1.4621488957191326
+  },
+  {
+    "co.country": "Germany",
+    "avg(t.AverageTemperatureUncertainty)": 1.623561655085284
+  },
+  {
+    "co.country": "Nigeria",
+    "avg(t.AverageTemperatureUncertainty)": 0.6893575792712848
+  },
+  {
+    "co.country": "Iran",
+    "avg(t.AverageTemperatureUncertainty)": 1.0002266653370546
+  },
+  {
+    "co.country": "Russia",
+    "avg(t.AverageTemperatureUncertainty)": 1.3862082129349096
+  },
+  {
+    "co.country": "Canada",
+    "avg(t.AverageTemperatureUncertainty)": 1.0625044148036866
+  },
+  {
+    "co.country": "Côte D'Ivoire",
+    "avg(t.AverageTemperatureUncertainty)": 0.698778398256606
+  },
+  {
+    "co.country": "United Kingdom",
+    "avg(t.AverageTemperatureUncertainty)": 1.6183506311360394
+  },
+  {
+    "co.country": "Saudi Arabia",
+    "avg(t.AverageTemperatureUncertainty)": 0.9223063013698619
+  },
+  {
+    "co.country": "Japan",
+    "avg(t.AverageTemperatureUncertainty)": 0.6323925363383956
+  },
+  {
+    "co.country": "United States",
+    "avg(t.AverageTemperatureUncertainty)": 1.086072189173118
+  },
+  {
+    "co.country": "India",
+    "avg(t.AverageTemperatureUncertainty)": 0.9302647240923697
+  },
+  {
+    "co.country": "Benin",
+    "avg(t.AverageTemperatureUncertainty)": 0.6129960227272729
+  },
+  {
+    "co.country": "United Arab Emirates",
+    "avg(t.AverageTemperatureUncertainty)": 0.8384934106483911
+  },
+  {
+    "co.country": "Mexico",
+    "avg(t.AverageTemperatureUncertainty)": 0.8629493333333347
+  },
+  {
+    "co.country": "Venezuela",
+    "avg(t.AverageTemperatureUncertainty)": 0.862815797868944
+  },
+  {
+    "co.country": "Ghana",
+    "avg(t.AverageTemperatureUncertainty)": 0.6278904573687167
+  },
+  {
+    "co.country": "Ethiopia",
+    "avg(t.AverageTemperatureUncertainty)": 0.8256238057324843
+  },
+  {
+    "co.country": "Australia",
+    "avg(t.AverageTemperatureUncertainty)": 0.5920991775520086
+  },
+  {
+    "co.country": "Yemen",
+    "avg(t.AverageTemperatureUncertainty)": 0.9774613981762938
+  },
+  {
+    "co.country": "Indonesia",
+    "avg(t.AverageTemperatureUncertainty)": 0.6331921960856934
+  },
+  {
+    "co.country": "Morocco",
+    "avg(t.AverageTemperatureUncertainty)": 1.155146946564883
+  },
+  {
+    "co.country": "Pakistan",
+    "avg(t.AverageTemperatureUncertainty)": 0.7655957753240541
+  },
+  {
+    "co.country": "France",
+    "avg(t.AverageTemperatureUncertainty)": 1.579018793430202
+  },
+  {
+    "co.country": "Libya",
+    "avg(t.AverageTemperatureUncertainty)": 1.3700944669365736
+  },
+  {
+    "co.country": "Burma",
+    "avg(t.AverageTemperatureUncertainty)": 0.9019675568743808
+  },
+  {
+    "co.country": "Brazil",
+    "avg(t.AverageTemperatureUncertainty)": 0.8626090481267736
+  },
+  {
+    "co.country": "South Africa",
+    "avg(t.AverageTemperatureUncertainty)": 0.7100152162306461
+  },
+  {
+    "co.country": "Syria",
+    "avg(t.AverageTemperatureUncertainty)": 0.9790302541347315
+  },
+  {
+    "co.country": "Egypt",
+    "avg(t.AverageTemperatureUncertainty)": 0.8946414013440585
+  },
+  {
+    "co.country": "Algeria",
+    "avg(t.AverageTemperatureUncertainty)": 1.5146825447570322
+  },
+  {
+    "co.country": "Netherlands",
+    "avg(t.AverageTemperatureUncertainty)": 1.628330069488306
+  },
+  {
+    "co.country": "Malaysia",
+    "avg(t.AverageTemperatureUncertainty)": 0.6032054511463144
+  },
+  {
+    "co.country": "Portugal",
+    "avg(t.AverageTemperatureUncertainty)": 1.4332087595907907
+  },
+  {
+    "co.country": "Ecuador",
+    "avg(t.AverageTemperatureUncertainty)": 0.6275772259236827
+  },
+  {
+    "co.country": "Italy",
+    "avg(t.AverageTemperatureUncertainty)": 1.5569739945251637
+  },
+  {
+    "co.country": "Uzbekistan",
+    "avg(t.AverageTemperatureUncertainty)": 1.0162277522935732
+  },
+  {
+    "co.country": "Philippines",
+    "avg(t.AverageTemperatureUncertainty)": 0.6529214894288428
+  },
+  {
+    "co.country": "Madagascar",
+    "avg(t.AverageTemperatureUncertainty)": 0.7815473624503694
+  },
+  {
+    "co.country": "Chile",
+    "avg(t.AverageTemperatureUncertainty)": 0.8843523684210516
+  },
+  {
+    "co.country": "Belgium",
+    "avg(t.AverageTemperatureUncertainty)": 1.6253259633607053
+  },
+  {
+    "co.country": "El Salvador",
+    "avg(t.AverageTemperatureUncertainty)": 0.8325436018957344
+  },
+  {
+    "co.country": "Romania",
+    "avg(t.AverageTemperatureUncertainty)": 1.5726355022109912
+  },
+  {
+    "co.country": "Peru",
+    "avg(t.AverageTemperatureUncertainty)": 0.8423784330731432
+  },
+  {
+    "co.country": "Colombia",
+    "avg(t.AverageTemperatureUncertainty)": 0.7145548608557046
+  },
+  {
+    "co.country": "Tanzania",
+    "avg(t.AverageTemperatureUncertainty)": 0.5464480600750947
+  },
+  {
+    "co.country": "Tunisia",
+    "avg(t.AverageTemperatureUncertainty)": 1.4479677215189841
+  },
+  {
+    "co.country": "Turkmenistan",
+    "avg(t.AverageTemperatureUncertainty)": 0.9913889396709334
+  },
+  {
+    "co.country": "Israel",
+    "avg(t.AverageTemperatureUncertainty)": 0.9056756259580981
+  },
+  {
+    "co.country": "Eritrea",
+    "avg(t.AverageTemperatureUncertainty)": 0.9285710005991605
+  },
+  {
+    "co.country": "Paraguay",
+    "avg(t.AverageTemperatureUncertainty)": 0.8460062022900771
+  },
+  {
+    "co.country": "Greece",
+    "avg(t.AverageTemperatureUncertainty)": 1.441547953964193
+  },
+  {
+    "co.country": "New Zealand",
+    "avg(t.AverageTemperatureUncertainty)": 0.7193044605809117
+  },
+  {
+    "co.country": "Vietnam",
+    "avg(t.AverageTemperatureUncertainty)": 0.6398830352827447
+  },
+  {
+    "co.country": "Cameroon",
+    "avg(t.AverageTemperatureUncertainty)": 0.6555481268011505
+  },
+  {
+    "co.country": "Iraq",
+    "avg(t.AverageTemperatureUncertainty)": 1.0204827586206915
+  },
+  {
+    "co.country": "Afghanistan",
+    "avg(t.AverageTemperatureUncertainty)": 0.9756316526610638
+  },
+  {
+    "co.country": "Argentina",
+    "avg(t.AverageTemperatureUncertainty)": 0.7736289473684207
+  },
+  {
+    "co.country": "Azerbaijan",
+    "avg(t.AverageTemperatureUncertainty)": 1.0290024449877773
+  },
+  {
+    "co.country": "Moldova",
+    "avg(t.AverageTemperatureUncertainty)": 1.5437062539482007
+  },
+  {
+    "co.country": "Mali",
+    "avg(t.AverageTemperatureUncertainty)": 0.7525522388059699
+  },
+  {
+    "co.country": "Congo (Democratic Republic Of The)",
+    "avg(t.AverageTemperatureUncertainty)": 0.6478927953890494
+  },
+  {
+    "co.country": "Thailand",
+    "avg(t.AverageTemperatureUncertainty)": 0.7536335707925194
+  },
+  {
+    "co.country": "Central African Republic",
+    "avg(t.AverageTemperatureUncertainty)": 0.7306138328530256
+  },
+  {
+    "co.country": "Bosnia And Herzegovina",
+    "avg(t.AverageTemperatureUncertainty)": 1.573604232469995
+  },
+  {
+    "co.country": "Bangladesh",
+    "avg(t.AverageTemperatureUncertainty)": 0.8764129274560185
+  },
+  {
+    "co.country": "Switzerland",
+    "avg(t.AverageTemperatureUncertainty)": 1.6289333543903963
+  },
+  {
+    "co.country": "Equatorial Guinea",
+    "avg(t.AverageTemperatureUncertainty)": 0.6241613832853031
+  },
+  {
+    "co.country": "Cuba",
+    "avg(t.AverageTemperatureUncertainty)": 0.8358837920489295
+  },
+  {
+    "co.country": "Lebanon",
+    "avg(t.AverageTemperatureUncertainty)": 0.9720562280359248
+  },
+  {
+    "co.country": "Mozambique",
+    "avg(t.AverageTemperatureUncertainty)": 0.6406564310544598
+  },
+  {
+    "co.country": "Serbia",
+    "avg(t.AverageTemperatureUncertainty)": 1.5424690461149748
+  },
+  {
+    "co.country": "Angola",
+    "avg(t.AverageTemperatureUncertainty)": 0.893485532407407
+  },
+  {
+    "co.country": "Somalia",
+    "avg(t.AverageTemperatureUncertainty)": 0.9882702050663448
+  },
+  {
+    "co.country": "Norway",
+    "avg(t.AverageTemperatureUncertainty)": 1.7640082122552114
+  },
+  {
+    "co.country": "Nepal",
+    "avg(t.AverageTemperatureUncertainty)": 0.9688627192537805
+  },
+  {
+    "co.country": "Poland",
+    "avg(t.AverageTemperatureUncertainty)": 1.6048259633607074
+  },
+  {
+    "co.country": "Ukraine",
+    "avg(t.AverageTemperatureUncertainty)": 1.486295009475679
+  },
+  {
+    "co.country": "Guinea Bissau",
+    "avg(t.AverageTemperatureUncertainty)": 0.758119187600214
+  }
+]

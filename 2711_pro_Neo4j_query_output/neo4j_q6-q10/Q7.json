@@ -1,0 +1,910 @@
+﻿[
+  {
+    "t.Year": 1787,
+    "avg(t.AverageTemperatureUncertainty)": 3.1984000000000004
+  },
+  {
+    "t.Year": 1788,
+    "avg(t.AverageTemperatureUncertainty)": 2.4638823529411766
+  },
+  {
+    "t.Year": 1789,
+    "avg(t.AverageTemperatureUncertainty)": 2.3911818181818174
+  },
+  {
+    "t.Year": 1790,
+    "avg(t.AverageTemperatureUncertainty)": 2.7229722222222223
+  },
+  {
+    "t.Year": 1791,
+    "avg(t.AverageTemperatureUncertainty)": 2.3967777777777775
+  },
+  {
+    "t.Year": 1792,
+    "avg(t.AverageTemperatureUncertainty)": 2.328933333333333
+  },
+  {
+    "t.Year": 1793,
+    "avg(t.AverageTemperatureUncertainty)": 2.9144166666666664
+  },
+  {
+    "t.Year": 1794,
+    "avg(t.AverageTemperatureUncertainty)": 2.2776666666666663
+  },
+  {
+    "t.Year": 1795,
+    "avg(t.AverageTemperatureUncertainty)": 2.676090909090909
+  },
+  {
+    "t.Year": 1796,
+    "avg(t.AverageTemperatureUncertainty)": 2.511940000000001
+  },
+  {
+    "t.Year": 1797,
+    "avg(t.AverageTemperatureUncertainty)": 2.346551792828683
+  },
+  {
+    "t.Year": 1798,
+    "avg(t.AverageTemperatureUncertainty)": 2.3780099601593623
+  },
+  {
+    "t.Year": 1799,
+    "avg(t.AverageTemperatureUncertainty)": 2.134584999999999
+  },
+  {
+    "t.Year": 1800,
+    "avg(t.AverageTemperatureUncertainty)": 2.1499000000000006
+  },
+  {
+    "t.Year": 1801,
+    "avg(t.AverageTemperatureUncertainty)": 1.949077689243029
+  },
+  {
+    "t.Year": 1802,
+    "avg(t.AverageTemperatureUncertainty)": 1.950318333333335
+  },
+  {
+    "t.Year": 1803,
+    "avg(t.AverageTemperatureUncertainty)": 2.0095628058727586
+  },
+  {
+    "t.Year": 1804,
+    "avg(t.AverageTemperatureUncertainty)": 2.468824193548386
+  },
+  {
+    "t.Year": 1805,
+    "avg(t.AverageTemperatureUncertainty)": 1.8812716666666687
+  },
+  {
+    "t.Year": 1806,
+    "avg(t.AverageTemperatureUncertainty)": 1.9469699999999983
+  },
+  {
+    "t.Year": 1807,
+    "avg(t.AverageTemperatureUncertainty)": 1.995015936254982
+  },
+  {
+    "t.Year": 1808,
+    "avg(t.AverageTemperatureUncertainty)": 2.2175833333333337
+  },
+  {
+    "t.Year": 1809,
+    "avg(t.AverageTemperatureUncertainty)": 2.7855833333333337
+  },
+  {
+    "t.Year": 1810,
+    "avg(t.AverageTemperatureUncertainty)": 2.7525833333333334
+  },
+  {
+    "t.Year": 1811,
+    "avg(t.AverageTemperatureUncertainty)": 3.0259166666666664
+  },
+  {
+    "t.Year": 1812,
+    "avg(t.AverageTemperatureUncertainty)": 2.7096666666666667
+  },
+  {
+    "t.Year": 1813,
+    "avg(t.AverageTemperatureUncertainty)": 2.4397616666666644
+  },
+  {
+    "t.Year": 1814,
+    "avg(t.AverageTemperatureUncertainty)": 2.6093557168784045
+  },
+  {
+    "t.Year": 1815,
+    "avg(t.AverageTemperatureUncertainty)": 2.6355083333333327
+  },
+  {
+    "t.Year": 1816,
+    "avg(t.AverageTemperatureUncertainty)": 2.8663950819672115
+  },
+  {
+    "t.Year": 1817,
+    "avg(t.AverageTemperatureUncertainty)": 2.481854575163402
+  },
+  {
+    "t.Year": 1818,
+    "avg(t.AverageTemperatureUncertainty)": 2.9820898692810474
+  },
+  {
+    "t.Year": 1819,
+    "avg(t.AverageTemperatureUncertainty)": 2.1706013071895445
+  },
+  {
+    "t.Year": 1820,
+    "avg(t.AverageTemperatureUncertainty)": 2.0797479541734836
+  },
+  {
+    "t.Year": 1821,
+    "avg(t.AverageTemperatureUncertainty)": 2.130459150326798
+  },
+  {
+    "t.Year": 1822,
+    "avg(t.AverageTemperatureUncertainty)": 1.9139477124183013
+  },
+  {
+    "t.Year": 1823,
+    "avg(t.AverageTemperatureUncertainty)": 2.064752808988762
+  },
+  {
+    "t.Year": 1824,
+    "avg(t.AverageTemperatureUncertainty)": 2.0642235123367167
+  },
+  {
+    "t.Year": 1825,
+    "avg(t.AverageTemperatureUncertainty)": 1.8523510416666684
+  },
+  {
+    "t.Year": 1826,
+    "avg(t.AverageTemperatureUncertainty)": 1.891338709677418
+  },
+  {
+    "t.Year": 1827,
+    "avg(t.AverageTemperatureUncertainty)": 2.0309230769230786
+  },
+  {
+    "t.Year": 1828,
+    "avg(t.AverageTemperatureUncertainty)": 2.0271828737300464
+  },
+  {
+    "t.Year": 1829,
+    "avg(t.AverageTemperatureUncertainty)": 2.1529076246334347
+  },
+  {
+    "t.Year": 1830,
+    "avg(t.AverageTemperatureUncertainty)": 2.157588235294117
+  },
+  {
+    "t.Year": 1831,
+    "avg(t.AverageTemperatureUncertainty)": 2.4996192810457503
+  },
+  {
+    "t.Year": 1832,
+    "avg(t.AverageTemperatureUncertainty)": 2.3121409921671017
+  },
+  {
+    "t.Year": 1833,
+    "avg(t.AverageTemperatureUncertainty)": 2.017234234234235
+  },
+  {
+    "t.Year": 1834,
+    "avg(t.AverageTemperatureUncertainty)": 1.9411948198198177
+  },
+  {
+    "t.Year": 1835,
+    "avg(t.AverageTemperatureUncertainty)": 1.779121923937362
+  },
+  {
+    "t.Year": 1836,
+    "avg(t.AverageTemperatureUncertainty)": 1.9654994363021412
+  },
+  {
+    "t.Year": 1837,
+    "avg(t.AverageTemperatureUncertainty)": 1.9528645016797306
+  },
+  {
+    "t.Year": 1838,
+    "avg(t.AverageTemperatureUncertainty)": 2.08481152993348
+  },
+  {
+    "t.Year": 1839,
+    "avg(t.AverageTemperatureUncertainty)": 1.7830823421774922
+  },
+  {
+    "t.Year": 1840,
+    "avg(t.AverageTemperatureUncertainty)": 1.8535111940298505
+  },
+  {
+    "t.Year": 1841,
+    "avg(t.AverageTemperatureUncertainty)": 1.808341209829868
+  },
+  {
+    "t.Year": 1842,
+    "avg(t.AverageTemperatureUncertainty)": 1.5728866279069753
+  },
+  {
+    "t.Year": 1843,
+    "avg(t.AverageTemperatureUncertainty)": 1.5291316553727017
+  },
+  {
+    "t.Year": 1844,
+    "avg(t.AverageTemperatureUncertainty)": 1.4213961538461546
+  },
+  {
+    "t.Year": 1845,
+    "avg(t.AverageTemperatureUncertainty)": 1.441207631874302
+  },
+  {
+    "t.Year": 1846,
+    "avg(t.AverageTemperatureUncertainty)": 1.6659244060475162
+  },
+  {
+    "t.Year": 1847,
+    "avg(t.AverageTemperatureUncertainty)": 1.6153470464135016
+  },
+  {
+    "t.Year": 1848,
+    "avg(t.AverageTemperatureUncertainty)": 1.486618764845606
+  },
+  {
+    "t.Year": 1849,
+    "avg(t.AverageTemperatureUncertainty)": 1.544690625000001
+  },
+  {
+    "t.Year": 1850,
+    "avg(t.AverageTemperatureUncertainty)": 1.5609782777346757
+  },
+  {
+    "t.Year": 1851,
+    "avg(t.AverageTemperatureUncertainty)": 1.4953183060109294
+  },
+  {
+    "t.Year": 1852,
+    "avg(t.AverageTemperatureUncertainty)": 1.518040935672517
+  },
+  {
+    "t.Year": 1853,
+    "avg(t.AverageTemperatureUncertainty)": 1.3491431670281993
+  },
+  {
+    "t.Year": 1854,
+    "avg(t.AverageTemperatureUncertainty)": 1.4711118930330764
+  },
+  {
+    "t.Year": 1855,
+    "avg(t.AverageTemperatureUncertainty)": 1.4782646657571643
+  },
+  {
+    "t.Year": 1856,
+    "avg(t.AverageTemperatureUncertainty)": 1.4613669950738923
+  },
+  {
+    "t.Year": 1857,
+    "avg(t.AverageTemperatureUncertainty)": 1.3840539986329463
+  },
+  {
+    "t.Year": 1858,
+    "avg(t.AverageTemperatureUncertainty)": 1.5224493132766512
+  },
+  {
+    "t.Year": 1859,
+    "avg(t.AverageTemperatureUncertainty)": 1.379932549504953
+  },
+  {
+    "t.Year": 1860,
+    "avg(t.AverageTemperatureUncertainty)": 1.3902401005656824
+  },
+  {
+    "t.Year": 1861,
+    "avg(t.AverageTemperatureUncertainty)": 1.4419168253968264
+  },
+  {
+    "t.Year": 1862,
+    "avg(t.AverageTemperatureUncertainty)": 1.510431074766353
+  },
+  {
+    "t.Year": 1863,
+    "avg(t.AverageTemperatureUncertainty)": 1.5274136504653575
+  },
+  {
+    "t.Year": 1864,
+    "avg(t.AverageTemperatureUncertainty)": 1.4066884469696983
+  },
+  {
+    "t.Year": 1865,
+    "avg(t.AverageTemperatureUncertainty)": 1.4548274785323971
+  },
+  {
+    "t.Year": 1866,
+    "avg(t.AverageTemperatureUncertainty)": 1.3361094076655047
+  },
+  {
+    "t.Year": 1867,
+    "avg(t.AverageTemperatureUncertainty)": 1.359397735314934
+  },
+  {
+    "t.Year": 1868,
+    "avg(t.AverageTemperatureUncertainty)": 1.4568452702702726
+  },
+  {
+    "t.Year": 1869,
+    "avg(t.AverageTemperatureUncertainty)": 1.423502717391302
+  },
+  {
+    "t.Year": 1870,
+    "avg(t.AverageTemperatureUncertainty)": 1.3326082265677694
+  },
+  {
+    "t.Year": 1871,
+    "avg(t.AverageTemperatureUncertainty)": 1.2590779310344835
+  },
+  {
+    "t.Year": 1872,
+    "avg(t.AverageTemperatureUncertainty)": 1.3934965564738282
+  },
+  {
+    "t.Year": 1873,
+    "avg(t.AverageTemperatureUncertainty)": 1.2242491017964046
+  },
+  {
+    "t.Year": 1874,
+    "avg(t.AverageTemperatureUncertainty)": 1.3005887050770117
+  },
+  {
+    "t.Year": 1875,
+    "avg(t.AverageTemperatureUncertainty)": 1.0939372294372298
+  },
+  {
+    "t.Year": 1876,
+    "avg(t.AverageTemperatureUncertainty)": 1.1993180076628347
+  },
+  {
+    "t.Year": 1877,
+    "avg(t.AverageTemperatureUncertainty)": 1.2741729243786375
+  },
+  {
+    "t.Year": 1878,
+    "avg(t.AverageTemperatureUncertainty)": 1.1818526927138324
+  },
+  {
+    "t.Year": 1879,
+    "avg(t.AverageTemperatureUncertainty)": 1.0866042363433672
+  },
+  {
+    "t.Year": 1880,
+    "avg(t.AverageTemperatureUncertainty)": 1.1016078947368417
+  },
+  {
+    "t.Year": 1881,
+    "avg(t.AverageTemperatureUncertainty)": 0.9911710037174734
+  },
+  {
+    "t.Year": 1882,
+    "avg(t.AverageTemperatureUncertainty)": 0.9229282678002109
+  },
+  {
+    "t.Year": 1883,
+    "avg(t.AverageTemperatureUncertainty)": 0.9703688131985092
+  },
+  {
+    "t.Year": 1884,
+    "avg(t.AverageTemperatureUncertainty)": 1.017368767123288
+  },
+  {
+    "t.Year": 1885,
+    "avg(t.AverageTemperatureUncertainty)": 0.9895450843513685
+  },
+  {
+    "t.Year": 1886,
+    "avg(t.AverageTemperatureUncertainty)": 0.9524676220806799
+  },
+  {
+    "t.Year": 1887,
+    "avg(t.AverageTemperatureUncertainty)": 0.9344901333333314
+  },
+  {
+    "t.Year": 1888,
+    "avg(t.AverageTemperatureUncertainty)": 0.9794258271077907
+  },
+  {
+    "t.Year": 1889,
+    "avg(t.AverageTemperatureUncertainty)": 0.9521271097046416
+  },
+  {
+    "t.Year": 1890,
+    "avg(t.AverageTemperatureUncertainty)": 1.0027354330708678
+  },
+  {
+    "t.Year": 1891,
+    "avg(t.AverageTemperatureUncertainty)": 0.7950687499999987
+  },
+  {
+    "t.Year": 1892,
+    "avg(t.AverageTemperatureUncertainty)": 0.8180213541666682
+  },
+  {
+    "t.Year": 1893,
+    "avg(t.AverageTemperatureUncertainty)": 0.8159989583333342
+  },
+  {
+    "t.Year": 1894,
+    "avg(t.AverageTemperatureUncertainty)": 0.7658635416666663
+  },
+  {
+    "t.Year": 1895,
+    "avg(t.AverageTemperatureUncertainty)": 0.7594416666666652
+  },
+  {
+    "t.Year": 1896,
+    "avg(t.AverageTemperatureUncertainty)": 0.8085244791666661
+  },
+  {
+    "t.Year": 1897,
+    "avg(t.AverageTemperatureUncertainty)": 0.8615750000000002
+  },
+  {
+    "t.Year": 1898,
+    "avg(t.AverageTemperatureUncertainty)": 0.8183456725755991
+  },
+  {
+    "t.Year": 1899,
+    "avg(t.AverageTemperatureUncertainty)": 0.8301838541666666
+  },
+  {
+    "t.Year": 1900,
+    "avg(t.AverageTemperatureUncertainty)": 0.8362161458333337
+  },
+  {
+    "t.Year": 1901,
+    "avg(t.AverageTemperatureUncertainty)": 0.8349750000000011
+  },
+  {
+    "t.Year": 1902,
+    "avg(t.AverageTemperatureUncertainty)": 0.8016666666666677
+  },
+  {
+    "t.Year": 1903,
+    "avg(t.AverageTemperatureUncertainty)": 0.7740687499999995
+  },
+  {
+    "t.Year": 1904,
+    "avg(t.AverageTemperatureUncertainty)": 0.745956770833333
+  },
+  {
+    "t.Year": 1905,
+    "avg(t.AverageTemperatureUncertainty)": 0.7485343750000005
+  },
+  {
+    "t.Year": 1906,
+    "avg(t.AverageTemperatureUncertainty)": 0.6873760416666667
+  },
+  {
+    "t.Year": 1907,
+    "avg(t.AverageTemperatureUncertainty)": 0.6508822916666677
+  },
+  {
+    "t.Year": 1908,
+    "avg(t.AverageTemperatureUncertainty)": 0.6672932291666644
+  },
+  {
+    "t.Year": 1909,
+    "avg(t.AverageTemperatureUncertainty)": 0.6679203124999996
+  },
+  {
+    "t.Year": 1910,
+    "avg(t.AverageTemperatureUncertainty)": 0.6775921875000003
+  },
+  {
+    "t.Year": 1911,
+    "avg(t.AverageTemperatureUncertainty)": 0.6224536458333334
+  },
+  {
+    "t.Year": 1912,
+    "avg(t.AverageTemperatureUncertainty)": 0.6603520833333335
+  },
+  {
+    "t.Year": 1913,
+    "avg(t.AverageTemperatureUncertainty)": 0.6089140625000017
+  },
+  {
+    "t.Year": 1914,
+    "avg(t.AverageTemperatureUncertainty)": 0.6405760416666664
+  },
+  {
+    "t.Year": 1915,
+    "avg(t.AverageTemperatureUncertainty)": 0.643279166666665
+  },
+  {
+    "t.Year": 1916,
+    "avg(t.AverageTemperatureUncertainty)": 0.6199302083333332
+  },
+  {
+    "t.Year": 1917,
+    "avg(t.AverageTemperatureUncertainty)": 0.6358953125000005
+  },
+  {
+    "t.Year": 1918,
+    "avg(t.AverageTemperatureUncertainty)": 0.6014635416666668
+  },
+  {
+    "t.Year": 1919,
+    "avg(t.AverageTemperatureUncertainty)": 0.6454046875000001
+  },
+  {
+    "t.Year": 1920,
+    "avg(t.AverageTemperatureUncertainty)": 0.6310494791666661
+  },
+  {
+    "t.Year": 1921,
+    "avg(t.AverageTemperatureUncertainty)": 0.6141640625000004
+  },
+  {
+    "t.Year": 1922,
+    "avg(t.AverageTemperatureUncertainty)": 0.5796635416666669
+  },
+  {
+    "t.Year": 1923,
+    "avg(t.AverageTemperatureUncertainty)": 0.5663083333333321
+  },
+  {
+    "t.Year": 1924,
+    "avg(t.AverageTemperatureUncertainty)": 0.5313953125000004
+  },
+  {
+    "t.Year": 1925,
+    "avg(t.AverageTemperatureUncertainty)": 0.5783958333333337
+  },
+  {
+    "t.Year": 1926,
+    "avg(t.AverageTemperatureUncertainty)": 0.5594812500000006
+  },
+  {
+    "t.Year": 1927,
+    "avg(t.AverageTemperatureUncertainty)": 0.5245583333333337
+  },
+  {
+    "t.Year": 1928,
+    "avg(t.AverageTemperatureUncertainty)": 0.5358989583333329
+  },
+  {
+    "t.Year": 1929,
+    "avg(t.AverageTemperatureUncertainty)": 0.5357078124999995
+  },
+  {
+    "t.Year": 1930,
+    "avg(t.AverageTemperatureUncertainty)": 0.5049697916666676
+  },
+  {
+    "t.Year": 1931,
+    "avg(t.AverageTemperatureUncertainty)": 0.5021807291666655
+  },
+  {
+    "t.Year": 1932,
+    "avg(t.AverageTemperatureUncertainty)": 0.49662552083333494
+  },
+  {
+    "t.Year": 1933,
+    "avg(t.AverageTemperatureUncertainty)": 0.5011406250000002
+  },
+  {
+    "t.Year": 1934,
+    "avg(t.AverageTemperatureUncertainty)": 0.5026041666666679
+  },
+  {
+    "t.Year": 1935,
+    "avg(t.AverageTemperatureUncertainty)": 0.5264354166666666
+  },
+  {
+    "t.Year": 1936,
+    "avg(t.AverageTemperatureUncertainty)": 0.5103177083333336
+  },
+  {
+    "t.Year": 1937,
+    "avg(t.AverageTemperatureUncertainty)": 0.49305468750000053
+  },
+  {
+    "t.Year": 1938,
+    "avg(t.AverageTemperatureUncertainty)": 0.5081499999999998
+  },
+  {
+    "t.Year": 1939,
+    "avg(t.AverageTemperatureUncertainty)": 0.4932942708333328
+  },
+  {
+    "t.Year": 1940,
+    "avg(t.AverageTemperatureUncertainty)": 0.47905989583333336
+  },
+  {
+    "t.Year": 1941,
+    "avg(t.AverageTemperatureUncertainty)": 0.5128958333333336
+  },
+  {
+    "t.Year": 1942,
+    "avg(t.AverageTemperatureUncertainty)": 0.5050671875000002
+  },
+  {
+    "t.Year": 1943,
+    "avg(t.AverageTemperatureUncertainty)": 0.49327447916666606
+  },
+  {
+    "t.Year": 1944,
+    "avg(t.AverageTemperatureUncertainty)": 0.5084208333333332
+  },
+  {
+    "t.Year": 1945,
+    "avg(t.AverageTemperatureUncertainty)": 0.5261828125000008
+  },
+  {
+    "t.Year": 1946,
+    "avg(t.AverageTemperatureUncertainty)": 0.5014390625
+  },
+  {
+    "t.Year": 1947,
+    "avg(t.AverageTemperatureUncertainty)": 0.4667229166666671
+  },
+  {
+    "t.Year": 1948,
+    "avg(t.AverageTemperatureUncertainty)": 0.4555307291666675
+  },
+  {
+    "t.Year": 1949,
+    "avg(t.AverageTemperatureUncertainty)": 0.4613020833333335
+  },
+  {
+    "t.Year": 1950,
+    "avg(t.AverageTemperatureUncertainty)": 0.433715104166667
+  },
+  {
+    "t.Year": 1951,
+    "avg(t.AverageTemperatureUncertainty)": 0.48495624999999964
+  },
+  {
+    "t.Year": 1952,
+    "avg(t.AverageTemperatureUncertainty)": 0.4059499999999996
+  },
+  {
+    "t.Year": 1953,
+    "avg(t.AverageTemperatureUncertainty)": 0.3953854166666666
+  },
+  {
+    "t.Year": 1954,
+    "avg(t.AverageTemperatureUncertainty)": 0.4204067708333339
+  },
+  {
+    "t.Year": 1955,
+    "avg(t.AverageTemperatureUncertainty)": 0.4212968749999997
+  },
+  {
+    "t.Year": 1956,
+    "avg(t.AverageTemperatureUncertainty)": 0.4082322916666668
+  },
+  {
+    "t.Year": 1957,
+    "avg(t.AverageTemperatureUncertainty)": 0.5037250000000004
+  },
+  {
+    "t.Year": 1958,
+    "avg(t.AverageTemperatureUncertainty)": 0.4463807291666666
+  },
+  {
+    "t.Year": 1959,
+    "avg(t.AverageTemperatureUncertainty)": 0.4294567708333338
+  },
+  {
+    "t.Year": 1960,
+    "avg(t.AverageTemperatureUncertainty)": 0.412688020833333
+  },
+  {
+    "t.Year": 1961,
+    "avg(t.AverageTemperatureUncertainty)": 0.39515989583333305
+  },
+  {
+    "t.Year": 1962,
+    "avg(t.AverageTemperatureUncertainty)": 0.41282812500000043
+  },
+  {
+    "t.Year": 1963,
+    "avg(t.AverageTemperatureUncertainty)": 0.4179869791666662
+  },
+  {
+    "t.Year": 1964,
+    "avg(t.AverageTemperatureUncertainty)": 0.3883494791666666
+  },
+  {
+    "t.Year": 1965,
+    "avg(t.AverageTemperatureUncertainty)": 0.4199203124999998
+  },
+  {
+    "t.Year": 1966,
+    "avg(t.AverageTemperatureUncertainty)": 0.40777552083333346
+  },
+  {
+    "t.Year": 1967,
+    "avg(t.AverageTemperatureUncertainty)": 0.39273802083333287
+  },
+  {
+    "t.Year": 1968,
+    "avg(t.AverageTemperatureUncertainty)": 0.3996286458333337
+  },
+  {
+    "t.Year": 1969,
+    "avg(t.AverageTemperatureUncertainty)": 0.4106765625000002
+  },
+  {
+    "t.Year": 1970,
+    "avg(t.AverageTemperatureUncertainty)": 0.39179583333333307
+  },
+  {
+    "t.Year": 1971,
+    "avg(t.AverageTemperatureUncertainty)": 0.3949927083333334
+  },
+  {
+    "t.Year": 1972,
+    "avg(t.AverageTemperatureUncertainty)": 0.4190463541666673
+  },
+  {
+    "t.Year": 1973,
+    "avg(t.AverageTemperatureUncertainty)": 0.38336614583333295
+  },
+  {
+    "t.Year": 1974,
+    "avg(t.AverageTemperatureUncertainty)": 0.38313802083333365
+  },
+  {
+    "t.Year": 1975,
+    "avg(t.AverageTemperatureUncertainty)": 0.41558020833333326
+  },
+  {
+    "t.Year": 1976,
+    "avg(t.AverageTemperatureUncertainty)": 0.41721927083333366
+  },
+  {
+    "t.Year": 1977,
+    "avg(t.AverageTemperatureUncertainty)": 0.3763083333333334
+  },
+  {
+    "t.Year": 1978,
+    "avg(t.AverageTemperatureUncertainty)": 0.37719843750000015
+  },
+  {
+    "t.Year": 1979,
+    "avg(t.AverageTemperatureUncertainty)": 0.3705041666666664
+  },
+  {
+    "t.Year": 1980,
+    "avg(t.AverageTemperatureUncertainty)": 0.36898906249999996
+  },
+  {
+    "t.Year": 1981,
+    "avg(t.AverageTemperatureUncertainty)": 0.38406354166666634
+  },
+  {
+    "t.Year": 1982,
+    "avg(t.AverageTemperatureUncertainty)": 0.37755520833333317
+  },
+  {
+    "t.Year": 1983,
+    "avg(t.AverageTemperatureUncertainty)": 0.39163802083333277
+  },
+  {
+    "t.Year": 1984,
+    "avg(t.AverageTemperatureUncertainty)": 0.3829697916666669
+  },
+  {
+    "t.Year": 1985,
+    "avg(t.AverageTemperatureUncertainty)": 0.387421354166666
+  },
+  {
+    "t.Year": 1986,
+    "avg(t.AverageTemperatureUncertainty)": 0.39168541666666673
+  },
+  {
+    "t.Year": 1987,
+    "avg(t.AverageTemperatureUncertainty)": 0.3906661458333337
+  },
+  {
+    "t.Year": 1988,
+    "avg(t.AverageTemperatureUncertainty)": 0.372815104166666
+  },
+  {
+    "t.Year": 1989,
+    "avg(t.AverageTemperatureUncertainty)": 0.3963630208333339
+  },
+  {
+    "t.Year": 1990,
+    "avg(t.AverageTemperatureUncertainty)": 0.4140171875000008
+  },
+  {
+    "t.Year": 1991,
+    "avg(t.AverageTemperatureUncertainty)": 0.36440000000000006
+  },
+  {
+    "t.Year": 1992,
+    "avg(t.AverageTemperatureUncertainty)": 0.38615052083333357
+  },
+  {
+    "t.Year": 1993,
+    "avg(t.AverageTemperatureUncertainty)": 0.36722499999999964
+  },
+  {
+    "t.Year": 1994,
+    "avg(t.AverageTemperatureUncertainty)": 0.3748687500000001
+  },
+  {
+    "t.Year": 1995,
+    "avg(t.AverageTemperatureUncertainty)": 0.36644375000000035
+  },
+  {
+    "t.Year": 1996,
+    "avg(t.AverageTemperatureUncertainty)": 0.36103437500000013
+  },
+  {
+    "t.Year": 1997,
+    "avg(t.AverageTemperatureUncertainty)": 0.38954270833333293
+  },
+  {
+    "t.Year": 1998,
+    "avg(t.AverageTemperatureUncertainty)": 0.36490520833333345
+  },
+  {
+    "t.Year": 1999,
+    "avg(t.AverageTemperatureUncertainty)": 0.36875572916666693
+  },
+  {
+    "t.Year": 2000,
+    "avg(t.AverageTemperatureUncertainty)": 0.37804687500000034
+  },
+  {
+    "t.Year": 2001,
+    "avg(t.AverageTemperatureUncertainty)": 0.40474427083333403
+  },
+  {
+    "t.Year": 2002,
+    "avg(t.AverageTemperatureUncertainty)": 0.40600260416666734
+  },
+  {
+    "t.Year": 2003,
+    "avg(t.AverageTemperatureUncertainty)": 0.42984895833333353
+  },
+  {
+    "t.Year": 2004,
+    "avg(t.AverageTemperatureUncertainty)": 0.39960468749999994
+  },
+  {
+    "t.Year": 2005,
+    "avg(t.AverageTemperatureUncertainty)": 0.38251666666666684
+  },
+  {
+    "t.Year": 2006,
+    "avg(t.AverageTemperatureUncertainty)": 0.4026864583333336
+  },
+  {
+    "t.Year": 2007,
+    "avg(t.AverageTemperatureUncertainty)": 0.39366510416666645
+  },
+  {
+    "t.Year": 2008,
+    "avg(t.AverageTemperatureUncertainty)": 0.38703489583333345
+  },
+  {
+    "t.Year": 2009,
+    "avg(t.AverageTemperatureUncertainty)": 0.3898906250000002
+  },
+  {
+    "t.Year": 2010,
+    "avg(t.AverageTemperatureUncertainty)": 0.39541041666666643
+  },
+  {
+    "t.Year": 2011,
+    "avg(t.AverageTemperatureUncertainty)": 0.4030244791666663
+  },
+  {
+    "t.Year": 2012,
+    "avg(t.AverageTemperatureUncertainty)": 0.5206635416666657
+  },
+  {
+    "t.Year": 2013,
+    "avg(t.AverageTemperatureUncertainty)": 0.5824042056074771
+  }
+]
