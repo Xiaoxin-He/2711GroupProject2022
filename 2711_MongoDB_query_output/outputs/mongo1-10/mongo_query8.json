@@ -1,0 +1,802 @@
+[
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "-3.228"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "-1.333"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "5.123"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "7.95"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "9.351"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "6.765"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "2.887"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "14.444"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "4.851"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "13.226"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "8.355"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "16.848"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "5.658"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "16.082"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "5.251"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "2.871"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "-1.259"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "14.835"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "4.141"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "-0.652"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "0.857"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "16.293"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "1.727"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "14.429"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "7.591"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "20.179"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "13.473"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "1.251"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "-2.732"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "1.699"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "12.266"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "-0.943"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "15.019"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "-1.142"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "-0.781"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "4.21"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "10.081"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "5.182"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "8.033"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "3.284"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "0.325"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "-3.154"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "9.129"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "5.267"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "11.725"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "6.068"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "1.664"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "4.042"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "16.632"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "17.831"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "4.639"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "10.634"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "-0.285"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "-0.623"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "9.529"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "5.489"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "-3.436"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "5.637"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "-2.442"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "12.893"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "10.978"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "3.961"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "14.051"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "12.781"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "7.197"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "16.638"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "8.908"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "1.45"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "-0.678"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "15.537"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "13.143"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "15.04"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "10.644"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "16.547"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "14.913"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "3.05"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "12.023"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "-4.277"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "16.671"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "0.122"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "2.684"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "5.788"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "12.177"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "3.7"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "-0.566"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "-3.764"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "17.572"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "0.356"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "14.833"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "2.011"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "4.208"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "7.756"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "2.242"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "0.129"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "-0.645"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "16.896"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "15.808"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "18.103"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "16.435"
+      }
+    }
+  },
+  {
+    "_id": {
+      "city": "Arhus",
+      "AverageTemperature": {
+        "avg": "10.65"
+      }
+    }
+  }
+]

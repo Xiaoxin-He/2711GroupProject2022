@@ -1,0 +1,1586 @@
+﻿[
+  {
+    "City": "A Coruña",
+    "Average_temp": 8.675204545454553
+  },
+  {
+    "City": "Aachen",
+    "Average_temp": 1.074089646464646
+  },
+  {
+    "City": "Aalborg",
+    "Average_temp": 0.09576262626262624
+  },
+  {
+    "City": "Aba",
+    "Average_temp": 26.80851494252876
+  },
+  {
+    "City": "Abadan",
+    "Average_temp": 13.977566473988434
+  },
+  {
+    "City": "Abakaliki",
+    "Average_temp": 26.808514942528728
+  },
+  {
+    "City": "Abakan",
+    "Average_temp": -18.90506044905008
+  },
+  {
+    "City": "Abbotsford",
+    "Average_temp": 0.3525347985347981
+  },
+  {
+    "City": "Abengourou",
+    "Average_temp": 27.037332608695657
+  },
+  {
+    "City": "Abeokuta",
+    "Average_temp": 27.236083333333326
+  },
+  {
+    "City": "Aberdeen",
+    "Average_temp": 4.847676767676768
+  },
+  {
+    "City": "Abha",
+    "Average_temp": 19.74210698689959
+  },
+  {
+    "City": "Abidjan",
+    "Average_temp": 26.960552808988744
+  },
+  {
+    "City": "Abiko",
+    "Average_temp": 2.212809523809524
+  },
+  {
+    "City": "Abilene",
+    "Average_temp": 6.342686206896555
+  },
+  {
+    "City": "Abohar",
+    "Average_temp": 13.841996116504863
+  },
+  {
+    "City": "Abomey Calavi",
+    "Average_temp": 28.167700680272116
+  },
+  {
+    "City": "Abu Dhabi",
+    "Average_temp": 19.175655462184874
+  },
+  {
+    "City": "Abuja",
+    "Average_temp": 26.099581018518524
+  },
+  {
+    "City": "Acapulco",
+    "Average_temp": 25.147581818181823
+  },
+  {
+    "City": "Acarigua",
+    "Average_temp": 26.747197318007657
+  },
+  {
+    "City": "Accra",
+    "Average_temp": 26.965031531531533
+  },
+  {
+    "City": "Achalpur",
+    "Average_temp": 20.24546337579618
+  },
+  {
+    "City": "Acheng",
+    "Average_temp": -19.03960276338516
+  },
+  {
+    "City": "Achinsk",
+    "Average_temp": -18.169020725388574
+  },
+  {
+    "City": "Acuña",
+    "Average_temp": 9.747761061946898
+  },
+  {
+    "City": "Adana",
+    "Average_temp": 11.113402402402405
+  },
+  {
+    "City": "Addis Abeba",
+    "Average_temp": 17.33802392344499
+  },
+  {
+    "City": "Adelaide",
+    "Average_temp": 21.342023255813956
+  },
+  {
+    "City": "Aden",
+    "Average_temp": 22.046491525423736
+  },
+  {
+    "City": "Adilabad",
+    "Average_temp": 22.398146496815304
+  },
+  {
+    "City": "Adiwerna",
+    "Average_temp": 25.940290254237297
+  },
+  {
+    "City": "Adoni",
+    "Average_temp": 24.34799681528664
+  },
+  {
+    "City": "Afyonkarahisar",
+    "Average_temp": 1.1383311938382552
+  },
+  {
+    "City": "Agadir",
+    "Average_temp": 12.332785266457682
+  },
+  {
+    "City": "Agartala",
+    "Average_temp": 19.11648895899052
+  },
+  {
+    "City": "Agboville",
+    "Average_temp": 26.780780645161286
+  },
+  {
+    "City": "Ageo",
+    "Average_temp": 2.212809523809523
+  },
+  {
+    "City": "Agra",
+    "Average_temp": 15.843609195402287
+  },
+  {
+    "City": "Aguascalientes",
+    "Average_temp": 13.864080524344566
+  },
+  {
+    "City": "Ahmadabad",
+    "Average_temp": 20.512320785597392
+  },
+  {
+    "City": "Ahmadnagar",
+    "Average_temp": 21.105966560509554
+  },
+  {
+    "City": "Ahmadpur East",
+    "Average_temp": 14.510155339805829
+  },
+  {
+    "City": "Ahvaz",
+    "Average_temp": 12.49886728971963
+  },
+  {
+    "City": "Aix En Provence",
+    "Average_temp": 3.3552765151515156
+  },
+  {
+    "City": "Aizawl",
+    "Average_temp": 17.194374203821674
+  },
+  {
+    "City": "Ajdabiya",
+    "Average_temp": 12.136552068473607
+  },
+  {
+    "City": "Ajmer",
+    "Average_temp": 16.795316139767063
+  },
+  {
+    "City": "Akashi",
+    "Average_temp": 4.6411853281853315
+  },
+  {
+    "City": "Akishima",
+    "Average_temp": 2.2128095238095216
+  },
+  {
+    "City": "Akita",
+    "Average_temp": 1.29254633204633
+  },
+  {
+    "City": "Akola",
+    "Average_temp": 21.911628980891727
+  },
+  {
+    "City": "Akron",
+    "Average_temp": -2.201129770992366
+  },
+  {
+    "City": "Aksaray",
+    "Average_temp": 1.3932920227920227
+  },
+  {
+    "City": "Aksu",
+    "Average_temp": -6.768388788426764
+  },
+  {
+    "City": "Aktau",
+    "Average_temp": -3.3057562500000013
+  },
+  {
+    "City": "Akure",
+    "Average_temp": 26.50186574074073
+  },
+  {
+    "City": "Akyab",
+    "Average_temp": 22.48715930599368
+  },
+  {
+    "City": "Alagoinhas",
+    "Average_temp": 26.307639312977084
+  },
+  {
+    "City": "Alandur",
+    "Average_temp": 24.78424044585985
+  },
+  {
+    "City": "Alanya",
+    "Average_temp": 12.022245714285718
+  },
+  {
+    "City": "Alappuzha",
+    "Average_temp": 26.174546623794196
+  },
+  {
+    "City": "Albacete",
+    "Average_temp": 4.852758838383832
+  },
+  {
+    "City": "Alberton",
+    "Average_temp": 19.317219616204703
+  },
+  {
+    "City": "Albuquerque",
+    "Average_temp": 0.6218421052631584
+  },
+  {
+    "City": "Albury",
+    "Average_temp": 20.36757558139536
+  },
+  {
+    "City": "Alcalá De Henares",
+    "Average_temp": 3.819954545454543
+  },
+  {
+    "City": "Alcobendas",
+    "Average_temp": 3.819954545454546
+  },
+  {
+    "City": "Alcorcón",
+    "Average_temp": 3.8199545454545465
+  },
+  {
+    "City": "Aleppo",
+    "Average_temp": 6.406681744749598
+  },
+  {
+    "City": "Alexandria",
+    "Average_temp": 7.029068870523415
+  },
+  {
+    "City": "Algeciras",
+    "Average_temp": 12.167260869565224
+  },
+  {
+    "City": "Algiers",
+    "Average_temp": 8.161329923273657
+  },
+  {
+    "City": "Aligarh",
+    "Average_temp": 15.58779966611019
+  },
+  {
+    "City": "Allahabad",
+    "Average_temp": 17.125439297124593
+  },
+  {
+    "City": "Allentown",
+    "Average_temp": -2.259033078880407
+  },
+  {
+    "City": "Almaty",
+    "Average_temp": -7.75021937842778
+  },
+  {
+    "City": "Almere",
+    "Average_temp": 2.0087904040404023
+  },
+  {
+    "City": "Almería",
+    "Average_temp": 13.284278772378515
+  },
+  {
+    "City": "Almetyevsk",
+    "Average_temp": -12.599058673469376
+  },
+  {
+    "City": "Alor Setar",
+    "Average_temp": 26.734013645224174
+  },
+  {
+    "City": "Altay",
+    "Average_temp": -19.781618307426616
+  },
+  {
+    "City": "Alwar",
+    "Average_temp": 15.587799666110191
+  },
+  {
+    "City": "Amadora",
+    "Average_temp": 9.398352941176462
+  },
+  {
+    "City": "Amagasaki",
+    "Average_temp": 4.877069033530572
+  },
+  {
+    "City": "Amaigbo",
+    "Average_temp": 26.808514942528717
+  },
+  {
+    "City": "Amarillo",
+    "Average_temp": 4.254020689655178
+  },
+  {
+    "City": "Ambala",
+    "Average_temp": 13.908904040404023
+  },
+  {
+    "City": "Ambarnath",
+    "Average_temp": 24.59919267515924
+  },
+  {
+    "City": "Ambato",
+    "Average_temp": 17.02598783454988
+  },
+  {
+    "City": "Ambattur",
+    "Average_temp": 24.78424044585987
+  },
+  {
+    "City": "Ambon",
+    "Average_temp": 27.331339999999983
+  },
+  {
+    "City": "Ambur",
+    "Average_temp": 24.63715286624204
+  },
+  {
+    "City": "Americana",
+    "Average_temp": 23.160881679389306
+  },
+  {
+    "City": "Amersfoort",
+    "Average_temp": 2.008790404040402
+  },
+  {
+    "City": "Amiens",
+    "Average_temp": 3.2848585858585855
+  },
+  {
+    "City": "Amol",
+    "Average_temp": 2.730735815602836
+  },
+  {
+    "City": "Amravati",
+    "Average_temp": 20.245463375796195
+  },
+  {
+    "City": "Amritsar",
+    "Average_temp": 13.389005836575885
+  },
+  {
+    "City": "Amroha",
+    "Average_temp": 15.794803005008353
+  },
+  {
+    "City": "Amsterdam",
+    "Average_temp": 2.0087904040404054
+  },
+  {
+    "City": "Anaco",
+    "Average_temp": 25.45940996168581
+  },
+  {
+    "City": "Anaheim",
+    "Average_temp": 13.34416599190283
+  },
+  {
+    "City": "Anand",
+    "Average_temp": 20.512320785597364
+  },
+  {
+    "City": "Ananindeua",
+    "Average_temp": 26.31310119047619
+  },
+  {
+    "City": "Anantapur",
+    "Average_temp": 24.34799681528662
+  },
+  {
+    "City": "Anbu",
+    "Average_temp": 13.922913127413125
+  },
+  {
+    "City": "Anchorage",
+    "Average_temp": -14.503531481481481
+  },
+  {
+    "City": "Ancona",
+    "Average_temp": 6.405132575757572
+  },
+  {
+    "City": "Anda",
+    "Average_temp": -16.814440414507775
+  },
+  {
+    "City": "Andijon",
+    "Average_temp": -3.2356587155963314
+  },
+  {
+    "City": "Angarsk",
+    "Average_temp": -18.388849740932645
+  },
+  {
+    "City": "Angeles",
+    "Average_temp": 25.02211660079051
+  },
+  {
+    "City": "Angers",
+    "Average_temp": 4.336806818181815
+  },
+  {
+    "City": "Angra Dos Reis",
+    "Average_temp": 23.323206106870224
+  },
+  {
+    "City": "Angren",
+    "Average_temp": -2.4884844036697245
+  },
+  {
+    "City": "Anjo",
+    "Average_temp": 4.877069033530568
+  },
+  {
+    "City": "Ankang",
+    "Average_temp": 1.5929471698113216
+  },
+  {
+    "City": "Ankara",
+    "Average_temp": -0.06949118046132972
+  },
+  {
+    "City": "Ann Arbor",
+    "Average_temp": -4.03156835443038
+  },
+  {
+    "City": "Anqing",
+    "Average_temp": 3.680779922779925
+  },
+  {
+    "City": "Anqiu",
+    "Average_temp": -1.4104633204633206
+  },
+  {
+    "City": "Anshan",
+    "Average_temp": -9.540171220400728
+  },
+  {
+    "City": "Anshun",
+    "Average_temp": 5.25944721689059
+  },
+  {
+    "City": "Antakya",
+    "Average_temp": 11.113402402402414
+  },
+  {
+    "City": "Antalya",
+    "Average_temp": 2.604130737134901
+  },
+  {
+    "City": "Antananarivo",
+    "Average_temp": 21.430709382151008
+  },
+  {
+    "City": "Antioch",
+    "Average_temp": 9.060429149797569
+  },
+  {
+    "City": "Antipolo",
+    "Average_temp": 25.02211660079052
+  },
+  {
+    "City": "Antofagasta",
+    "Average_temp": 18.12275105485233
+  },
+  {
+    "City": "Antsirabe",
+    "Average_temp": 22.496224256292912
+  },
+  {
+    "City": "Antwerp",
+    "Average_temp": 2.6195896464646453
+  },
+  {
+    "City": "Anyama",
+    "Average_temp": 26.78078064516128
+  },
+  {
+    "City": "Anyang",
+    "Average_temp": -3.5485666041275774
+  },
+  {
+    "City": "Anápolis",
+    "Average_temp": 22.857311068702273
+  },
+  {
+    "City": "Apeldoorn",
+    "Average_temp": 2.0087904040404045
+  },
+  {
+    "City": "Apodaca",
+    "Average_temp": 14.150568872987492
+  },
+  {
+    "City": "Apopa",
+    "Average_temp": 24.324503802281374
+  },
+  {
+    "City": "Apucarana",
+    "Average_temp": 24.526652671755727
+  },
+  {
+    "City": "Aqtöbe",
+    "Average_temp": -13.904920684292389
+  },
+  {
+    "City": "Ara",
+    "Average_temp": 16.932808306709237
+  },
+  {
+    "City": "Aracaju",
+    "Average_temp": 26.369339694656496
+  },
+  {
+    "City": "Arad",
+    "Average_temp": -1.2088434343434342
+  },
+  {
+    "City": "Araguaína",
+    "Average_temp": 25.344423290203334
+  },
+  {
+    "City": "Arak",
+    "Average_temp": 2.162356363636363
+  },
+  {
+    "City": "Arapiraca",
+    "Average_temp": 26.369339694656485
+  },
+  {
+    "City": "Araraquara",
+    "Average_temp": 23.964318702290072
+  },
+  {
+    "City": "Araras",
+    "Average_temp": 23.964318702290043
+  },
+  {
+    "City": "Araruama",
+    "Average_temp": 25.43075
+  },
+  {
+    "City": "Araucária",
+    "Average_temp": 20.737141221374017
+  },
+  {
+    "City": "Araçatuba",
+    "Average_temp": 25.6552290076336
+  },
+  {
+    "City": "Ardabil",
+    "Average_temp": 2.207150084317033
+  },
+  {
+    "City": "Arequipa",
+    "Average_temp": 20.818541850220257
+  },
+  {
+    "City": "Arhus",
+    "Average_temp": 0.09576262626262612
+  },
+  {
+    "City": "Arica",
+    "Average_temp": 20.786078059071734
+  },
+  {
+    "City": "Arjawinangun",
+    "Average_temp": 24.533898305084733
+  },
+  {
+    "City": "Arkhangelsk",
+    "Average_temp": -11.024647727272734
+  },
+  {
+    "City": "Arlington",
+    "Average_temp": 3.6009568397951783
+  },
+  {
+    "City": "Armavir",
+    "Average_temp": -2.205938775510202
+  },
+  {
+    "City": "Armenia",
+    "Average_temp": 21.73530040322582
+  },
+  {
+    "City": "Arnhem",
+    "Average_temp": 2.0087904040404068
+  },
+  {
+    "City": "Arusha",
+    "Average_temp": 22.498570351758797
+  },
+  {
+    "City": "Arvada",
+    "Average_temp": -7.499794827586203
+  },
+  {
+    "City": "Aryanah",
+    "Average_temp": 10.66178734177214
+  },
+  {
+    "City": "Arzamas",
+    "Average_temp": -10.418414141414157
+  },
+  {
+    "City": "Asahikawa",
+    "Average_temp": -7.4083740458015255
+  },
+  {
+    "City": "Asaka",
+    "Average_temp": 2.2128095238095242
+  },
+  {
+    "City": "Asansol",
+    "Average_temp": 18.740583596214524
+  },
+  {
+    "City": "Asfi",
+    "Average_temp": 12.749387573964501
+  },
+  {
+    "City": "Asgabat",
+    "Average_temp": 2.0895539305301636
+  },
+  {
+    "City": "Ashdod",
+    "Average_temp": 13.5963813420622
+  },
+  {
+    "City": "Ashikaga",
+    "Average_temp": 2.2128095238095247
+  },
+  {
+    "City": "Ashqelon",
+    "Average_temp": 13.596381342062182
+  },
+  {
+    "City": "Asmara",
+    "Average_temp": 21.441544364508367
+  },
+  {
+    "City": "Astana",
+    "Average_temp": -15.267497504159744
+  },
+  {
+    "City": "Astanajapura",
+    "Average_temp": 24.53389830508475
+  },
+  {
+    "City": "Astrakhan",
+    "Average_temp": -4.253616099071209
+  },
+  {
+    "City": "Asunción",
+    "Average_temp": 26.998440839694652
+  },
+  {
+    "City": "Aswan",
+    "Average_temp": 17.04023188405798
+  },
+  {
+    "City": "Asyut",
+    "Average_temp": 13.491237676056343
+  },
+  {
+    "City": "Athens",
+    "Average_temp": 10.521324808184138
+  },
+  {
+    "City": "Atibaia",
+    "Average_temp": 22.442585877862605
+  },
+  {
+    "City": "Atlanta",
+    "Average_temp": 5.201178117048347
+  },
+  {
+    "City": "Atsugi",
+    "Average_temp": 2.2128095238095233
+  },
+  {
+    "City": "Atyrau",
+    "Average_temp": -8.59327371695177
+  },
+  {
+    "City": "Auckland",
+    "Average_temp": 18.25571784232366
+  },
+  {
+    "City": "Augsburg",
+    "Average_temp": -4.16712626262626
+  },
+  {
+    "City": "Aurangabad",
+    "Average_temp": 20.75974203821656
+  },
+  {
+    "City": "Aurora",
+    "Average_temp": -2.7442326768781897
+  },
+  {
+    "City": "Austin",
+    "Average_temp": 11.027544194107454
+  },
+  {
+    "City": "Avadi",
+    "Average_temp": 24.784240445859876
+  },
+  {
+    "City": "Awassa",
+    "Average_temp": 18.506397129186606
+  },
+  {
+    "City": "Awka",
+    "Average_temp": 26.95457011494255
+  },
+  {
+    "City": "Ayacucho",
+    "Average_temp": 11.192914004914003
+  },
+  {
+    "City": "Ayer Itam",
+    "Average_temp": 26.734013645224177
+  },
+  {
+    "City": "Azamgarh",
+    "Average_temp": 16.474864217252403
+  },
+  {
+    "City": "Azare",
+    "Average_temp": 22.816379629629626
+  },
+  {
+    "City": "Babakan",
+    "Average_temp": 24.53389830508474
+  },
+  {
+    "City": "Babol",
+    "Average_temp": 2.7307358156028347
+  },
+  {
+    "City": "Bac Lieu",
+    "Average_temp": 25.13786266924563
+  },
+  {
+    "City": "Bacau",
+    "Average_temp": -3.2264810606060608
+  },
+  {
+    "City": "Bacolod",
+    "Average_temp": 26.227942917547548
+  },
+  {
+    "City": "Bacoor",
+    "Average_temp": 25.02211660079052
+  },
+  {
+    "City": "Badajoz",
+    "Average_temp": 8.231808917197451
+  },
+  {
+    "City": "Badalona",
+    "Average_temp": 10.37838888888889
+  },
+  {
+    "City": "Badaojiang",
+    "Average_temp": -15.944612318840576
+  },
+  {
+    "City": "Badlapur",
+    "Average_temp": 24.599192675159244
+  },
+  {
+    "City": "Bafoussam",
+    "Average_temp": 23.24178390804597
+  },
+  {
+    "City": "Bagaha",
+    "Average_temp": 16.59624121405752
+  },
+  {
+    "City": "Baghdad",
+    "Average_temp": 10.670325301204809
+  },
+  {
+    "City": "Baglan",
+    "Average_temp": -1.4873682242990656
+  },
+  {
+    "City": "Bago",
+    "Average_temp": 24.692066772655
+  },
+  {
+    "City": "Baguio",
+    "Average_temp": 23.532148221343878
+  },
+  {
+    "City": "Bahadurgarh",
+    "Average_temp": 15.587799666110197
+  },
+  {
+    "City": "Baharampur",
+    "Average_temp": 19.733293375394332
+  },
+  {
+    "City": "Bahawalnagar",
+    "Average_temp": 13.841996116504863
+  },
+  {
+    "City": "Bahawalpur",
+    "Average_temp": 14.510155339805825
+  },
+  {
+    "City": "Bahia Blanca",
+    "Average_temp": 21.65293881856539
+  },
+  {
+    "City": "Bahir Dar",
+    "Average_temp": 17.612274698795165
+  },
+  {
+    "City": "Bahraich",
+    "Average_temp": 15.043510779436144
+  },
+  {
+    "City": "Baia Mare",
+    "Average_temp": -2.0269179292929245
+  },
+  {
+    "City": "Baicheng",
+    "Average_temp": -15.20998791018997
+  },
+  {
+    "City": "Baidyabati",
+    "Average_temp": 19.73329337539434
+  },
+  {
+    "City": "Baiyin",
+    "Average_temp": -7.3171170212765935
+  },
+  {
+    "City": "Bakersfield",
+    "Average_temp": 7.450921052631578
+  },
+  {
+    "City": "Baku",
+    "Average_temp": 0.7012022838499192
+  },
+  {
+    "City": "Balakovo",
+    "Average_temp": -11.407522959183659
+  },
+  {
+    "City": "Balashikha",
+    "Average_temp": -8.89666792929294
+  },
+  {
+    "City": "Baleshwar",
+    "Average_temp": 20.86572239747634
+  },
+  {
+    "City": "Balikpapan",
+    "Average_temp": 26.38174576271186
+  },
+  {
+    "City": "Baliuag",
+    "Average_temp": 25.022116600790493
+  },
+  {
+    "City": "Ballia",
+    "Average_temp": 16.596241214057503
+  },
+  {
+    "City": "Bally",
+    "Average_temp": 19.733293375394336
+  },
+  {
+    "City": "Balti",
+    "Average_temp": -3.360050505050499
+  },
+  {
+    "City": "Baltimore",
+    "Average_temp": 0.5930648854961835
+  },
+  {
+    "City": "Balurghat",
+    "Average_temp": 18.43601424050634
+  },
+  {
+    "City": "Bama",
+    "Average_temp": 23.883389277389277
+  },
+  {
+    "City": "Bamako",
+    "Average_temp": 25.100741452991464
+  },
+  {
+    "City": "Bamenda",
+    "Average_temp": 23.24178390804598
+  },
+  {
+    "City": "Banda",
+    "Average_temp": 16.89682108626201
+  },
+  {
+    "City": "Banda Aceh",
+    "Average_temp": 25.563033439490432
+  },
+  {
+    "City": "Bandar E Anzali",
+    "Average_temp": 2.207150084317034
+  },
+  {
+    "City": "Bandar Maharani",
+    "Average_temp": 26.199249512670562
+  },
+  {
+    "City": "Bandar Penggaram",
+    "Average_temp": 25.64984405458093
+  },
+  {
+    "City": "Bandundu",
+    "Average_temp": 25.43978850574713
+  },
+  {
+    "City": "Bandung",
+    "Average_temp": 24.53389830508473
+  },
+  {
+    "City": "Baneh",
+    "Average_temp": 0.7184772344013489
+  },
+  {
+    "City": "Bangalore",
+    "Average_temp": 23.22344585987263
+  },
+  {
+    "City": "Bangaon",
+    "Average_temp": 19.733293375394332
+  },
+  {
+    "City": "Bangkok",
+    "Average_temp": 25.25980755395684
+  },
+  {
+    "City": "Bangui",
+    "Average_temp": 24.896735632183887
+  },
+  {
+    "City": "Banja Luka",
+    "Average_temp": -0.63367803030303
+  },
+  {
+    "City": "Banjaran",
+    "Average_temp": 24.533898305084737
+  },
+  {
+    "City": "Banjarmasin",
+    "Average_temp": 26.1846906779661
+  },
+  {
+    "City": "Bankura",
+    "Average_temp": 18.74058359621449
+  },
+  {
+    "City": "Bansbaria",
+    "Average_temp": 19.733293375394286
+  },
+  {
+    "City": "Bantou",
+    "Average_temp": 12.156476833976836
+  },
+  {
+    "City": "Banyuwangi",
+    "Average_temp": 26.77277118644067
+  },
+  {
+    "City": "Baoding",
+    "Average_temp": -7.830559585492232
+  },
+  {
+    "City": "Baoji",
+    "Average_temp": -1.4697053406998162
+  },
+  {
+    "City": "Baoshan",
+    "Average_temp": -18.35079891304346
+  },
+  {
+    "City": "Barakpur",
+    "Average_temp": 19.733293375394304
+  },
+  {
+    "City": "Baranagar",
+    "Average_temp": 19.73329337539435
+  },
+  {
+    "City": "Barasat",
+    "Average_temp": 19.733293375394332
+  },
+  {
+    "City": "Barbacena",
+    "Average_temp": 21.954185114503808
+  },
+  {
+    "City": "Barcelona",
+    "Average_temp": 16.090092085235927
+  },
+  {
+    "City": "Barddhaman",
+    "Average_temp": 19.733293375394332
+  },
+  {
+    "City": "Bareli",
+    "Average_temp": 15.794803005008337
+  },
+  {
+    "City": "Bari",
+    "Average_temp": 8.089601010101006
+  },
+  {
+    "City": "Barinas",
+    "Average_temp": 23.468617307692305
+  },
+  {
+    "City": "Baripada",
+    "Average_temp": 20.865722397476326
+  },
+  {
+    "City": "Barisal",
+    "Average_temp": 19.52567981072555
+  },
+  {
+    "City": "Barnala",
+    "Average_temp": 14.015733716475085
+  },
+  {
+    "City": "Barnaul",
+    "Average_temp": -17.18051295336789
+  },
+  {
+    "City": "Barquisimeto",
+    "Average_temp": 24.19170498084291
+  },
+  {
+    "City": "Barra Mansa",
+    "Average_temp": 21.954185114503826
+  },
+  {
+    "City": "Barrancabermeja",
+    "Average_temp": 25.112321153846164
+  },
+  {
+    "City": "Barranquilla",
+    "Average_temp": 26.35310961538462
+  },
+  {
+    "City": "Barreiras",
+    "Average_temp": 24.804862595419856
+  },
+  {
+    "City": "Barretos",
+    "Average_temp": 23.12745801526719
+  },
+  {
+    "City": "Barrie",
+    "Average_temp": -6.968913924050632
+  },
+  {
+    "City": "Barsi",
+    "Average_temp": 22.377291401273887
+  },
+  {
+    "City": "Barueri",
+    "Average_temp": 22.442585877862605
+  },
+  {
+    "City": "Baruta",
+    "Average_temp": 23.735385057471262
+  },
+  {
+    "City": "Basel",
+    "Average_temp": -1.5272297979797964
+  },
+  {
+    "City": "Basildon",
+    "Average_temp": 3.500279040404045
+  },
+  {
+    "City": "Basirhat",
+    "Average_temp": 19.733293375394318
+  },
+  {
+    "City": "Basti",
+    "Average_temp": 16.474864217252378
+  },
+  {
+    "City": "Bat Yam",
+    "Average_temp": 13.596381342062193
+  },
+  {
+    "City": "Bata",
+    "Average_temp": 25.661374712643678
+  },
+  {
+    "City": "Batala",
+    "Average_temp": 13.389005836575862
+  },
+  {
+    "City": "Batangas",
+    "Average_temp": 24.84174948240165
+  },
+  {
+    "City": "Bataysk",
+    "Average_temp": -4.274188607594937
+  },
+  {
+    "City": "Batman",
+    "Average_temp": 3.0263893376413566
+  },
+  {
+    "City": "Baton Rouge",
+    "Average_temp": 12.592991922455592
+  },
+  {
+    "City": "Baturaja",
+    "Average_temp": 24.824275423728825
+  },
+  {
+    "City": "Bauchi",
+    "Average_temp": 24.293087962962986
+  },
+  {
+    "City": "Bauru",
+    "Average_temp": 24.65117366412214
+  },
+  {
+    "City": "Bayamo",
+    "Average_temp": 23.948503496503502
+  },
+  {
+    "City": "Bayrut",
+    "Average_temp": 12.782652037617552
+  },
+  {
+    "City": "Beaumont",
+    "Average_temp": 12.080593803786567
+  },
+  {
+    "City": "Beawar",
+    "Average_temp": 17.799405676126888
+  },
+  {
+    "City": "Begusarai",
+    "Average_temp": 18.038102848101246
+  },
+  {
+    "City": "Beian",
+    "Average_temp": -20.13356649395509
+  },
+  {
+    "City": "Beibei",
+    "Average_temp": 7.164238003838769
+  },
+  {
+    "City": "Beihai",
+    "Average_temp": 14.904915547024956
+  },
+  {
+    "City": "Beipiao",
+    "Average_temp": -7.134193436960279
+  },
+  {
+    "City": "Beira",
+    "Average_temp": 26.819780885780872
+  },
+  {
+    "City": "Beirut",
+    "Average_temp": 12.782652037617549
+  },
+  {
+    "City": "Bekasi",
+    "Average_temp": 26.24315677966102
+  },
+  {
+    "City": "Belawan",
+    "Average_temp": 25.694670565302125
+  },
+  {
+    "City": "Belfast",
+    "Average_temp": 5.306736111111109
+  },
+  {
+    "City": "Belford Roxo",
+    "Average_temp": 25.430749999999993
+  },
+  {
+    "City": "Belgaum",
+    "Average_temp": 24.469621019108278
+  },
+  {
+    "City": "Belgorod",
+    "Average_temp": -7.24907702020202
+  },
+  {
+    "City": "Belgrade",
+    "Average_temp": -0.2212083333333336
+  },
+  {
+    "City": "Bellary",
+    "Average_temp": 24.347996815286635
+  },
+  {
+    "City": "Bellevue",
+    "Average_temp": 0.9986758241758235
+  },
+  {
+    "City": "Bello",
+    "Average_temp": 18.754601980198014
+  },
+  {
+    "City": "Belo Horizonte",
+    "Average_temp": 22.783868320610672
+  },
+  {
+    "City": "Belém",
+    "Average_temp": 26.31310119047617
+  },
+  {
+    "City": "Bene Beraq",
+    "Average_temp": 10.79593658536586
+  },
+  {
+    "City": "Bengbu",
+    "Average_temp": 2.7182335907335884
+  },
+  {
+    "City": "Benghazi",
+    "Average_temp": 13.355491677336744
+  },
+  {
+    "City": "Bengkulu",
+    "Average_temp": 25.74607415254238
+  },
+  {
+    "City": "Benguela",
+    "Average_temp": 24.7135103926097
+  },
+  {
+    "City": "Benha",
+    "Average_temp": 13.711242225859237
+  },
+  {
+    "City": "Beni Suef",
+    "Average_temp": 13.711242225859243
+  },
+  {
+    "City": "Benoni",
+    "Average_temp": 19.317219616204696
+  },
+  {
+    "City": "Benxi",
+    "Average_temp": -9.54017122040071
+  },
+  {
+    "City": "Beppu",
+    "Average_temp": 4.310646718146719
+  },
+  {
+    "City": "Berbera",
+    "Average_temp": 22.993891041162247
+  },
+  {
+    "City": "Berezniki",
+    "Average_temp": -13.945081632653046
+  },
+  {
+    "City": "Bergamo",
+    "Average_temp": -0.44328156565656546
+  },
+  {
+    "City": "Bergen",
+    "Average_temp": -5.759848484848493
+  },
+  {
+    "City": "Bergisch Gladbach",
+    "Average_temp": 1.0740896464646457
+  },
+  {
+    "City": "Berkeley",
+    "Average_temp": 9.060429149797553
+  },
+  {
+    "City": "Berlin",
+    "Average_temp": 0.05597474747474725
+  },
+  {
+    "City": "Bern",
+    "Average_temp": -1.5272297979797997
+  },
+  {
+    "City": "Bertoua",
+    "Average_temp": 23.3232827586207
+  },
+  {
+    "City": "Besançon",
+    "Average_temp": 0.7842285353535352
+  },
+  {
+    "City": "Bethal",
+    "Average_temp": 19.317219616204675
+  },
+  {
+    "City": "Betim",
+    "Average_temp": 22.783868320610694
+  },
+  {
+    "City": "Bettiah",
+    "Average_temp": 16.596241214057514
+  },
+  {
+    "City": "Bhadravati",
+    "Average_temp": 24.718719745222927
+  },
+  {
+    "City": "Bhadreswar",
+    "Average_temp": 19.733293375394325
+  },
+  {
+    "City": "Bhagalpur",
+    "Average_temp": 18.038102848101303
+  },
+  {
+    "City": "Bhairab Bazar",
+    "Average_temp": 18.621939873417737
+  },
+  {
+    "City": "Bharatpur",
+    "Average_temp": 11.593483525535413
+  },
+  {
+    "City": "Bharuch",
+    "Average_temp": 21.055835987261137
+  },
+  {
+    "City": "Bhatpara",
+    "Average_temp": 19.733293375394297
+  },
+  {
+    "City": "Bhavnagar",
+    "Average_temp": 21.604606109324756
+  },
+  {
+    "City": "Bhilai",
+    "Average_temp": 20.29114331210192
+  },
+  {
+    "City": "Bhilwara",
+    "Average_temp": 17.53529934210525
+  },
+  {
+    "City": "Bhimavaram",
+    "Average_temp": 23.985412420382175
+  },
+  {
+    "City": "Bhind",
+    "Average_temp": 15.84360919540229
+  },
+  {
+    "City": "Bhiwandi",
+    "Average_temp": 20.572877388535044
+  },
+  {
+    "City": "Bhiwani",
+    "Average_temp": 15.442697829716192
+  },
+  {
+    "City": "Bhopal",
+    "Average_temp": 18.90875318471338
+  },
+  {
+    "City": "Bhubaneswar",
+    "Average_temp": 22.105383280757078
+  },
+  {
+    "City": "Bhuj",
+    "Average_temp": 20.00288532883643
+  },
+  {
+    "City": "Bhusawal",
+    "Average_temp": 20.442894904458587
+  },
+  {
+    "City": "Bialystok",
+    "Average_temp": -4.388516414141413
+  },
+  {
+    "City": "Bid",
+    "Average_temp": 22.377291401273872
+  },
+  {
+    "City": "Bida",
+    "Average_temp": 27.386777777777784
+  },
+  {
+    "City": "Bidar",
+    "Average_temp": 22.776834394904455
+  },
+  {
+    "City": "Bielefeld",
+    "Average_temp": 1.2973611111111123
+  },
+  {
+    "City": "Bielsko Biala",
+    "Average_temp": -2.3905883838383852
+  },
+  {
+    "City": "Bihar",
+    "Average_temp": 16.932808306709262
+  },
+  {
+    "City": "Bijapur",
+    "Average_temp": 23.30657484076434
+  },
+  {
+    "City": "Bikaner",
+    "Average_temp": 15.861530884808026
+  },
+  {
+    "City": "Bila Tserkva",
+    "Average_temp": -4.596953282828286
+  },
+  {
+    "City": "Bilaspur",
+    "Average_temp": 20.29114331210192
+  },
+  {
+    "City": "Bilbao",
+    "Average_temp": 4.608816919191917
+  },
+  {
+    "City": "Binangonan",
+    "Average_temp": 24.84174948240165
+  },
+  {
+    "City": "Binjai",
+    "Average_temp": 25.694670565302168
+  },
+  {
+    "City": "Bintulu",
+    "Average_temp": 25.81810288065843
+  },
+  {
+    "City": "Binzhou",
+    "Average_temp": -1.9966393129771014
+  },
+  {
+    "City": "Biratnagar",
+    "Average_temp": 15.222825878594259
+  },
+  {
+    "City": "Birganj",
+    "Average_temp": 16.596241214057486
+  },
+  {
+    "City": "Birigui",
+    "Average_temp": 25.655229007633594
+  },
+  {
+    "City": "Birjand",
+    "Average_temp": 5.830745596868886
+  },
+  {
+    "City": "Birmingham",
+    "Average_temp": 5.678519011406848
+  },
+  {
+    "City": "Birnin Kebbi",
+    "Average_temp": 25.156194444444456
+  },
+  {
+    "City": "Bisho",
+    "Average_temp": 20.008153518123663
+  },
+  {
+    "City": "Bissau",
+    "Average_temp": 25.650645299145296
+  },
+  {
+    "City": "Bitung",
+    "Average_temp": 25.83067733990147
+  },
+  {
+    "City": "Biysk",
+    "Average_temp": -15.631207253886018
+  },
+  {
+    "City": "Biên Hòa",
+    "Average_temp": 25.72988394584139
+  },
+  {
+    "City": "Blackburn",
+    "Average_temp": 2.9296388888888902
+  },
+  {
+    "City": "Blackpool",
+    "Average_temp": 5.713705026455031
+  },
+  {
+    "City": "Bénin",
+    "Average_temp": 26.501865740740744
+  },
+  {
+    "City": "Çorlu",
+    "Average_temp": 4.900306818181818
+  },
+  {
+    "City": "Çorum",
+    "Average_temp": 0.29544030808729116
+  },
+  {
+    "City": "Öskemen",
+    "Average_temp": -15.542412780656306
+  },
+  {
+    "City": "Ürümqi",
+    "Average_temp": -13.56012953367875
+  }
+]
